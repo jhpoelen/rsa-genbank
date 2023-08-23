@@ -1,0 +1,2798 @@
+11476 (RSA)
+14262 (RSA-POM)
+17320 (RSA)
+17604 (RSA-POM)
+18208 (RSA-POM)
+18923 (1995) (Rancho Santa An
+18923 (1995) (RSA)
+20543 (RSA-POM)
+209700 RSA
+2290 (RSA)
+2449 RSA
+4066 (RSA-POM)
+4698 RSA
+527 RSA-POM
+528 RSA-POM
+5665 (RSA)
+5800 (RSA-POM)
+6467 (RSA-POM)
+9623 (RSA-POM)
+Abisai et al., s.n.(RSA)
+A.C. Sanders 15774 (RSA, SD, UCR)
+A.C. Sanders 15887, RSA-POM
+A.C. Sanders 26047 (RSA)
+A.C. Sanders 34560 (RSA)
+A. E. Orchard 1384 (RSA)
+Ahart 11305 (RSA)
+Ahart 12166a (RSA)
+Ahart 12166b (RSA)
+Ahart 12166c (RSA)
+Ahart 12166 (RSA)
+Ahart 12405 (RSA 716686)
+A. I. Calder & R.L. Taylor 36870 (RSA)
+Akhalkatsi RG04-01; RSA
+Alava 10608 RSA
+Alava 10778 RSA
+Alava 11039 RSA
+Alava 11039; RSA
+Alexeeva R01-23, RSA
+Alho 1980 (RSA)
+Alho s.n. (RSA)
+A. Liston 622 [RSA]
+A. Liston 767 (RSA)
+Alm 1381 (RSA)
+Alm 805 (RSA)
+A.L. Reina 96-574 (RSA)
+Amano s.n. (RSA)
+Anderson 11026 (RSA)
+Andre 8501 (RSA)
+Annable 289 (RSA)
+Aragone et al. 380 (RSA)
+Araujo & Davidson 2950 (RSA)
+Archibald et al 4484 (RSA)
+Archibald et al. 4484 (RSA)
+Arn 487; RSA
+A. Rojas 32 [RSA]
+Arroyo s.n.; RSA
+Arts RSA 104/09 10/16/96 (DUKE)
+Arts RSA 104/09 (DUKE)
+Arts RSA123/03
+Arts RSA 129/24 (JE)
+Arts, RSA 129/38 (JE)
+Arts RSA 21/20 (JE)
+Arts RSA 22/28 (JE)
+Arts RSA 25/LL (JE)
+Arts RSA 26/33 (JE)
+Arts RSA 27/06
+A. Sanders 10444 [RSA]
+A. Sanders 13388 [RSA]
+Ashworth 100 (RSA)
+Ashworth 254 (RSA)
+Ashworth 260 (RSA)
+Ashworth 261 (RSA)
+Ashworth 262 (RSA)
+Ashworth 263 (RSA)
+Ashworth 270 (RSA)
+Ashworth 271 (RSA)
+Ashworth 273 (RSA)
+Ashworth 275 (RSA)
+Ashworth 280 (RSA)
+Ashworth 282 (RSA)
+Ashworth 285 (RSA)
+Ashworth 37 (RSA)
+Ashworth 42 (RSA)
+Ashworth 58 (RSA)
+Ashworth 59 (RSA)
+Ashworth 62 (RSA)
+Ashworth 76 (RSA)
+Ashworth 77 (RSA)
+Ashworth 82 (RSA)
+Ashworth 84 (RSA)
+Atwood 16912 RSA
+Avent 3336; RSA
+A. Wheeler AA_01_VV_06 RSA
+A. Wheeler AN_01_SE_07 RSA
+A. Wheeler CA_01_HK_06 RSA
+A. Wheeler CC_01_VV_07 RSA
+A. Wheeler CI_01_HK_07 RSA
+A. Wheeler CN_01_VE_06 RSA
+A. Wheeler DC_01_PS_06 RSA
+A. Wheeler, DC_01_PS_06, RSA
+A. Wheeler EB_01_HK_07 RSA
+A. Wheeler FF_01_TR_06 RSA
+A. Wheeler GC_01_HK_06 RSA
+A. Wheeler HH_01_VS_06 RSA
+A. Wheeler HS_01_VV_06 RSA
+A. Wheeler LM_01_VS_06 RSA
+A. Wheeler LN_01-VE_06 RSA
+A. Wheeler LO_01_PS_06 RSA
+A. Wheeler LW_01_VE_06 RSA
+A. Wheeler MF_01_VE_06 RSA
+A. Wheeler MH_01_SE_07 RSA
+A. Wheeler NE_01_SE_07 RSA
+A. Wheeler NE_01_SE_07 RSA RSA
+A. Wheeler NM_01_HK_06 RSA
+A. Wheeler NO_01_TR_06 RSA
+A. Wheeler OA_01_VS_06 RSA
+A. Wheeler PP_01_HK_06 RSA
+A. Wheeler TA_01_SE_07 RSA
+A. Wheeler VA_01_SE_07 RSA
+A. Wheeler WA_01_SE_07 RSA
+A. Wheeler WP_01_PS_06 RSA
+A. Wheeler WP_01_VE_06 RSA
+Balkwill 5036, RSA
+Balkwill 8034 RSA
+Balls & Everett 18116 (RSA)
+Banks 1601 RSA
+Beatley 8733 RSA
+Bell 114 RSA
+Bell 114 (RSA)
+Bell 153 RSA
+Bell 171 RSA
+Bell 171 (RSA)
+Bell 228 RSA
+Bell 228 (RSA)
+Bell 231 RSA
+Bell 231 (RSA)
+Bell 236 RSA
+Bell 236 (RSA)
+Bell 237 RSA
+Bell 240 RSA
+Bell 240 (RSA)
+Bell 244 RSA
+Bell 245 RSA
+Bell 247 RSA
+Bell 247 (RSA)
+Bell 250 RSA
+Bell 250 (RSA)
+Bell 251T RSA
+Bell 258 RSA
+Bell 259 RSA
+Bell 260 RSA
+Bell 277 RSA
+Bell 290 RSA
+Bell 295 RSA
+Bell 314 RSA
+Bell 314 (RSA)
+Bell 318 RSA
+Bell 328 RSA
+Bell 330 RSA
+Bell 340 RSA
+Bell 355 RSA
+Bell 357 RSA
+Bell 367 RSA
+Bell 374 RSA
+Bell 375 RSA
+Bell 381 RSA
+Bell 389 RSA
+Bell 392 RSA
+Bell 405 RSA
+Bell 413 RSA
+Bell 458 RSA
+Bell 6232 (RSA)
+Benz s.n. 2005; RSA
+B. Lauri KA_01_SE_06 RSA
+Bohuslavek 1348(RSA)
+Boufford & Bartholomew 24364 (RSA)
+Boufford & Conant 22925 (RSA)
+Boufford & Conant 22950 (RSA)
+Boufford & Conant 22965 (RSA)
+Boufford & Wood 23871 (RSA)
+Boyd 10845 (RSA 701560)
+Boyd 2601 (RSA)
+Boyd 7739 RSA
+Boyd 7 RSA522764
+Boyd 8425 (RSA)
+Boyd 8795 RSA
+Bramlet 2289 (RSA)
+Breedlove 23390 (RSA)
+Breedlove 40430 (RSA)
+Breedlove62325RSA
+Breedlove & Thorne 18342 RSA
+Brunner 3753 (RSA)
+Brunner 3970 (RSA)
+Brunner 4054 (RSA)
+Burkart 22.309 (RSA)
+Calder 29499 (RSA)
+Calder & Kukkonen 27538 (RSA)
+Calder & Taylor 36732 (RSA)
+Campos 813 RSA
+Carpenter 9027 (RSA)
+Carter 18168 (RSA)
+Carter s.n.; RSA
+Castillo s.n.; RSA
+Cayola 1581 (RSA)
+CDA-S 5958, Duncan S. Bell 1339
+Cerros 1900 RSA
+Cerros 1905 RSA
+Cerros 1908 RSA
+Cerros 1918 RSA
+Cerros 1928 RSA
+Cerros 1943 RSA
+Cerros 1964 RSA
+Cerros 1981 RSA
+Cerros 1982 RSA
+Cerros 1983 RSA
+Cerros 1984 RSA
+Cerros 1985 RSA
+Cerros 1987 RSA
+Cerros 1990 RSA
+Cerros 1993 RSA
+Cerros 2004 RSA
+Cerros 2013 RSA
+Cerros 2015 RSA
+Cerros 2018 RSA
+Cerros 2031 RSA
+Cerros 2032 RSA
+Cerros 2055 RSA
+Cerros 2065 RSA
+Cerros 2069 RSA
+Cerros 2079 RSA
+Cerros 2080 RSA
+Cerros 2143 RSA
+Cerros 2190 RSA
+Cerros 2202 RSA
+Cerros 2203 RSA
+Cerros 2288 RSA
+Cerros 2325 RSA
+Cerros 2326 RSA
+Cerros 2327 RSA
+Cerros 2340 RSA
+Cerros 2361 RSA
+Cerros 2363 RSA
+Cerros 2370 RSA
+Cerros 2372.5 RSA
+Cerros 2372 RSA
+Cerros 2376 RSA
+Cerros 2378.5 RSA
+Cerros 2378 RSA
+Cerros 2379 RSA
+Cerros 2381 RSA
+Cerros 2402 RSA
+Cerros 2414 RSA
+Cerros 2415 RSA
+Cerros 2424 RSA
+Cerros 2425 RSA
+Cerros 2436 RSA
+Cerros 2440 RSA
+Cerros 2443 RSA
+Cerros 2452 RSA
+Cerros 2462 RSA
+Cerros 2463 RSA
+Cerros 2487 (RSA)
+Cerros 2493 (RSA)
+Cerros 2498 (RSA)
+Cerros 2884 RSA
+Charpin s.n. (RSA)
+Chhetri 1065 (RSA)
+Christiansen 8290 (RSA)
+Churchill 73-4170 (RSA)
+Clarke s. n. (23 Aug 2004) RSA
+Clarke s. n. (RSA)
+Clarkson 5711 RSA
+Clemens 43743 (RSA)
+C. M. Christy 329 (RSA)
+Cochrane 1198 RSA
+Colque & Tapia 276 (RSA)
+Colque & Tapia 279 (RSA)
+Columbus 1964 RSA
+Columbus 1981 RSA
+Columbus 2124 RSA
+Columbus 2126 RSA
+Columbus 2126 (RSA)
+Columbus 2191 RSA
+Columbus 2191 (RSA)
+Columbus 2213 RSA
+Columbus 2228 RSA
+Columbus 2228 (RSA)
+Columbus 2275 RSA
+Columbus 2276 RSA
+Columbus 2276 (RSA)
+Columbus 2326 RSA
+Columbus 2329 RSA
+Columbus 2329 (RSA)
+Columbus 2331 RSA
+Columbus 2331 (RSA)
+Columbus 2337 (RSA)
+Columbus 2376 RSA
+Columbus 2403 (RSA)
+Columbus 2420 RSA
+Columbus 2436 RSA
+Columbus 2436 (RSA)
+Columbus 2444 RSA
+Columbus 2444 (RSA)
+Columbus 2500 RSA
+Columbus 2500 (RSA)
+Columbus 2507 RSA
+Columbus 2507 (RSA)
+Columbus 2518 RSA
+Columbus 2536 RSA
+Columbus 2540 RSA
+Columbus 2540 (RSA)
+Columbus 2553 RSA
+Columbus 2553 (RSA)
+Columbus 2577 RSA
+Columbus 2577 (RSA)
+Columbus 2623 RSA
+Columbus 2624 RSA
+Columbus 2634 RSA
+Columbus 2638 (RSA)
+Columbus 2687 RSA
+Columbus 2687 (RSA)
+Columbus 2691 RSA
+Columbus 2691 (RSA)
+Columbus 2700 RSA
+Columbus 2700 (RSA)
+Columbus 2704 RSA
+Columbus 2704 (RSA)
+Columbus 2716 RSA
+Columbus 2724 (RSA)
+Columbus 2737 RSA
+Columbus 2737 (RSA)
+Columbus 2755 RSA
+Columbus 2796 RSA
+Columbus 2852 RSA
+Columbus 2869 RSA
+Columbus 2873 RSA
+Columbus 2873 (RSA)
+Columbus 2875 RSA
+Columbus 2875 (RSA)
+Columbus 2903 RSA
+Columbus 2903 (RSA)
+Columbus 2907 (RSA)
+Columbus 2909 RSA
+Columbus 2939 RSA
+Columbus 2939 (RSA)
+Columbus 2979 RSA
+Columbus 2979 (RSA)
+Columbus 2991 RSA
+Columbus 3035 RSA
+Columbus 3056 RSA
+Columbus 3064 RSA
+Columbus 3068 RSA
+Columbus 3068 (RSA)
+Columbus 3069 RSA
+Columbus 3090 RSA
+Columbus 3090 (RSA)
+Columbus 3100 RSA
+Columbus 3108 RSA
+Columbus 3108 (RSA)
+Columbus 3109 RSA
+Columbus 3109 (RSA)
+Columbus 3110 RSA
+Columbus 3111 RSA
+Columbus 3111 (RSA)
+Columbus 3119 RSA
+Columbus 3133 RSA
+Columbus 3133 (RSA)
+Columbus 3144 RSA
+Columbus 3144 (RSA)
+Columbus 3155 RSA
+Columbus 3155 (RSA)
+Columbus 3169 RSA
+Columbus 3183 RSA
+Columbus 3183 (RSA)
+Columbus 3189 RSA
+Columbus 3189 (RSA)
+Columbus 3201 RSA
+Columbus 3203 RSA
+Columbus 3203 (RSA)
+Columbus 3207 RSA
+Columbus 3209 (RSA)
+Columbus 3210 RSA
+Columbus 3210 (RSA)
+Columbus 3211 RSA
+Columbus 3212 RSA
+Columbus 3212 (RSA)
+Columbus 3221 RSA
+Columbus 3221 (RSA)
+Columbus 3226 (RSA)
+Columbus 3229 (RSA)
+Columbus 3234 RSA
+Columbus 3234 (RSA)
+Columbus 3239 RSA
+Columbus 3240 (RSA)
+Columbus 3247 RSA
+Columbus 3247 (RSA)
+Columbus 3254 RSA
+Columbus 3254 (RSA)
+Columbus 3269 (RSA)
+Columbus 3275 RSA
+Columbus 3275 (RSA)
+Columbus 3278 (RSA)
+Columbus 3286 RSA
+Columbus 3286 (RSA)
+Columbus 3289 RSA
+Columbus 3291 RSA
+Columbus 3292 (RSA)
+Columbus 3299 RSA
+Columbus 3308 (RSA)
+Columbus 3314 (RSA)
+Columbus 3328 RSA
+Columbus 3328 (RSA)
+Columbus 3332 (RSA)
+Columbus 3333 (RSA)
+Columbus 3338 RSA
+Columbus 3339 RSA
+Columbus 3348 RSA
+Columbus 3348 (RSA)
+Columbus 3349 RSA
+Columbus 3350 (RSA)
+Columbus 3352 RSA
+Columbus 3352 (RSA)
+Columbus 3353 RSA
+Columbus 3357 (RSA)
+Columbus 3359 RSA
+Columbus 3369 RSA
+Columbus 3375 RSA
+Columbus 3375 (RSA)
+Columbus 3389 RSA
+Columbus 3418 RSA
+Columbus 3429 RSA
+Columbus 3429 (RSA)
+Columbus 3432 RSA
+Columbus 3438 RSA
+Columbus 3438 (RSA)
+Columbus 3445 (RSA)
+Columbus 3452 RSA
+Columbus 3465 (RSA)
+Columbus 3468 RSA
+Columbus 3471 RSA
+Columbus 3487 (RSA)
+Columbus 3500 RSA
+Columbus 3513 RSA
+Columbus 3523 RSA
+Columbus 3539 RSA
+Columbus 3565 (RSA)
+Columbus 3566 RSA
+Columbus 3566 (RSA)
+Columbus 3568 RSA
+Columbus 3568 (RSA)
+Columbus 3570 RSA
+Columbus 3586 RSA
+Columbus 3601 (RSA)
+Columbus 3602 (RSA)
+Columbus 3606 (RSA)
+Columbus 3614 (RSA)
+Columbus 3615 (RSA)
+Columbus 3616 RSA
+Columbus 3616 (RSA)
+Columbus 3617 (RSA)
+Columbus 3618 RSA
+Columbus 3621 RSA
+Columbus 3621 (RSA)
+Columbus 3622 (RSA)
+Columbus 3641 (RSA)
+Columbus 3652 RSA
+Columbus 3652 (RSA)
+Columbus 3653 RSA
+Columbus 3653 (RSA)
+Columbus 3656 (RSA)
+Columbus 3662 (RSA)
+Columbus 3666 RSA
+Columbus 3666 (RSA)
+Columbus 3683 (RSA)
+Columbus 3686 (RSA)
+Columbus 3705 (RSA)
+Columbus 3727 RSA
+Columbus 3728 RSA
+Columbus 3729 RSA
+Columbus 3756 (RSA)
+Columbus 3758 RSA
+Columbus 3758 (RSA)
+Columbus 3831 RSA
+Columbus 3831 (RSA)
+Columbus 3855 RSA
+Columbus 3855 (RSA)
+Columbus 3894 RSA
+Columbus 3894 (RSA)
+Columbus 3898 RSA
+Columbus 3910 RSA
+Columbus 3910 (RSA)
+Columbus 3917 RSA
+Columbus 3917 (RSA)
+Columbus 3919 (RSA)
+Columbus 3985 RSA
+Columbus 3985 (RSA)
+Columbus 4006 RSA
+Columbus 4022 RSA
+Columbus 4038 RSA
+Columbus 4038 (RSA)
+Columbus 4040 RSA
+Columbus 4040 (RSA)
+Columbus 4045 RSA
+Columbus 4049 RSA
+Columbus 4054 RSA
+Columbus 4055 RSA
+Columbus 4056 RSA
+Columbus 4057 RSA
+Columbus 4063 RSA
+Columbus 4076 RSA
+Columbus 4077 RSA
+Columbus 4083 (RSA)
+Columbus 4094 (RSA)
+Columbus 4107 RSA
+Columbus 4115 RSA
+Columbus 4129 RSA
+Columbus 4129 (RSA)
+Columbus 4133 RSA
+Columbus 4143 RSA
+Columbus 4143 (RSA)
+Columbus 4181 RSA
+Columbus 4190 (RSA)
+Columbus 4206 RSA
+Columbus 4206 (RSA)
+Columbus 4238 RSA
+Columbus 4243 RSA
+Columbus 4251 RSA
+Columbus 4251 (RSA)
+Columbus 4263 RSA
+Columbus 4264 RSA
+Columbus 4264 (RSA)
+Columbus 4286 RSA
+Columbus 4299 RSA
+Columbus 4299 (RSA)
+Columbus 4300 RSA
+Columbus 4300 (RSA)
+Columbus 4304.5 RSA
+Columbus 4304.5 (RSA)
+Columbus 4306 RSA
+Columbus 4317 RSA
+Columbus 4317 (RSA)
+Columbus 4373 RSA
+Columbus 4380 RSA
+Columbus 4380 (RSA)
+Columbus 4603 (RSA)
+Columbus 4615 RSA
+Columbus 4682.5 RSA
+Columbus 4682.5 (RSA)
+Columbus 5006 (RSA)
+Columbus 5076 (RSA)
+Columbus 5108 (RSA)
+Columbus 5110 RSA
+Columbus 5119 (RSA)
+Columbus 5123 (RSA)
+Columbus 5131 RSA
+Columbus 5133 RSA
+Columbus 5150 (RSA)
+Columbus 5153 (RSA)
+Columbus 5158 RSA
+Columbus 5208 RSA
+Columbus 5209 RSA
+Columbus 5249 RSA
+Columbus 5250 (RSA)
+Columbus 5284 RSA
+Columbus 5285 RSA
+Columbus 5387 (RSA)
+comm seed RSA
+Correll & Rollins 20881 RSA
+Coveny 11063, RSA
+Coveny 3054 RSA
+Coveny 3054, RSA
+Craig1416 RSA
+Crampton 1403 (RSA)
+Crampton 3695 (RSA)
+C. R. Annable 289 (RSA)
+Crat 17091 (RSA)
+Craven 7139 RSA
+Cronquist 6549(RSA)
+Crosby et al. 285 (RSA)
+Cruse-Sanders s.n. (RSA)
+Cruse-Sanders s.n. RSA
+Cult. Oyama RK 24 (A), #16273 (RSA)
+Cusick 10832 (RSA)
+C. Wilson BB606-69 RSA
+C. Wilson DBG05-35 RSA
+C. Wilson US-01-15 RSA
+Daniel & Baker 3616 (RSA)
+Danin & Domina SC55 (PAL, RSA fro
+Danin & Hadjikyriakou CY2004/22a (RSA
+D. Arisa & S. Swensen 1009 (RSA)
+Davidson 6187 (RSA)
+Davis 1702; RSA
+Dawson 14278 RSA
+Dawson 14278; RSA
+Day 82-71 RSA
+Dayanandan 59 RSA
+D. Banks 1959 (RSA)
+D. Charlton 5415 (RSA)
+Dean Taylor 12548B; RSA
+Deburh 3468 (RSA)
+Deburh 3486 (RSA)
+DeDecker 2669 (RSA)
+DeDecker 2957 (RSA)
+DeDecker 4616 (RSA)
+DeDecker 4899 (RSA)
+DeDecker 5383 RSA
+DeDecker 5383; RSA
+De Decker 5494 (RSA)
+DeDecker 5605 (RSA)
+Devender 95469 (RSA)
+Devender 96257 (RSA)
+Devender 96-296, RSA
+D. Flores 65 [RSA]
+D. Harder 1104 [RSA]
+D.H. Wilken 16163 & E. Painter (RS
+D. J. McGillivray 2782 (RSA)
+Dokuchaeva s.n. (RSA)
+D. Pinkava 10367 (RSA)
+D.S. Bell 2722 (RSA)
+Ehrenberg 1060 (RSA)
+E. H. Roalson 1350 (RSA)
+E. H. Roalson 1368 (RSA)
+E. H. Roalson 1371 (RSA)
+E. H. Roalson 1384 (RSA)
+E. H. Roalson 1385 (RSA)
+Eichler 14298 (RSA)
+E. Imbert EI_03_PS_08 RSA
+E. J. Lott 4116 (RSA)
+E. Kellogg s.n. (RSA)
+E. Kempton s.n. (RSA)
+Elias 10190 (RSA)
+Elias 11269 (RSA)
+Elias 11312 (RSA)
+Elias 11380 (RSA)
+Elias 11472 (RSA)
+Elias 12025 (RSA)
+Elias 12033 (RSA)
+Elias 8026 (RSA)
+Elias 8839 RSA
+Elias 9527 (RSA)
+Elias 9850 RSA
+Elias et al. 6241 (RSA)
+Elias et al. 7182 RSA
+Elias et al. 7337 (RSA)
+Elias et al. 7339 (RSA)
+Elias et al. 7620 (RSA)
+Elias et al. 8254 (RSA)
+E. Roalson 1413 (RSA)
+Ertter 4744 (RSA)
+Ertter 7326, RSA, NY
+Ertter 8539 RSA
+Ertter 8885 (RSA)
+Everett & Balls 22099 RSA
+ex. Gengler 198 (RSA)
+ex. Gengler 36 (RSA)
+Ex. Hort LM_01_LA_08 RSA
+ex. Marticorena, Stuessy, and Baez
+Fay KS01-01; RSA
+Felger 91-39 RSA
+Felger 92-381 RSA
+Fitzgerald 16942 RSA
+Flynn 2781 (RSA)
+F. M. Roberts & R. L. Allen 6607 (RSA)
+Fraga 2010 RSA
+Franklin 7078 RSA
+Freund 76 (RSA)
+Friar s.n. (RSA)
+Fritsch 1137 (RSA)
+Fritsch 603 (RSA)
+Fritsch 644 (RSA)
+Fritsch & Fritsch 1337 RSA
+Fritsch & Fritsch 1337; RSA
+Fryxell & Craven 4022 RSA
+Fryxell et al. 4475 RSA
+Fryxell et al. 4475, RSA
+F. Ventura A. 7286 [RSA]
+Gallardo 58 (RSA)
+Gaoligong Shan Biodiversity Surve
+Garcia 1356 (RSA)
+G. Crow 7493 (RSA)
+Gentry 7198 RSA
+Gentry 7881 (RSA)
+G. Helmkamp s.n. (RSA)
+G. Hulse-Stephens, 1954 (RSA)
+Gillis 11202 (RSA)
+G J Allan s.n. (RSA)
+G. K. Helmkamp s.n. (RSA)
+Godfrey 60501 (RSA)
+GOET:Arts RSA 20/05
+Goodall 963 (RSA)
+Goodding 110; RSA
+Goodding 110; RSA; Herbarium at Ranch
+Goodrich 22823 (RSA 490532)
+Goodrich 24125 (RSA)
+Grant 8840 RSA
+Grant 9485 RSA
+Grant 9736 RSA
+Grant & Grant 61-S RSA
+Grant & Grant 8853 RSA
+Grant & Grant 9468 RSA
+Grant & Grant 9486 RSA
+G. R. Ballmer s. n. (RSA 712541)
+Greene 1408a (RSA)
+Greene 1430 (RSA)
+G. Seiler 1476, RSA
+G. Seiler 1564, RSA
+Guo Bj07-23, RSA
+Guo Bj07-25,RSA
+Guo BJ08-17 RSA
+Guo BJBG07-28 RSA
+Guo BJBG07-30 RSA
+Guo BJBG07-32 RSA
+Guo CH08-10 RSA
+Guo CH08-11 RSA
+Guo CH08-12 RSA
+Guo CH09-24 RSA
+Guo CH10-18 RSA
+Guo CH10-29 RSA
+Guo CH10-30 RSA
+Guo Jinyan BB_01_PS_08 RSA
+Guo JW11-35 RSA
+Guo KW11-34 RSA
+Gurney s.n. RSA
+Gustafson 2390 (RSA)
+Gustafson 3150 RSA
+Halse 1543 (RSA)
+Halse 2219 (RSA)
+Halse 3896; RSA
+Halse 4334 RSA
+Halse 4459 (RSA)
+Hammel 18464 (RSA)
+Hammel & al. 26076 (RSA)
+Hammel et al. 26084 (RSA)
+Hammel et al. 26088 (RSA)
+Hammel et al. 26090 (RSA)
+Hammel et. al. 26092 (RSA)
+Hammel et al. 26865 (RSA)
+Hannon 810 RSA
+Hannon 825 RSA
+Hannon & Elvin s.n. (RSA)
+Harder 1104 RSA
+Hartley 6643 (RSA)
+Hartvig & Franzen 8709 (RSA)
+Hartvig & Franzen 8844 (RSA)
+Heil & Hyder 7122 (RSA)
+Helmkamp s.n. (RSA)
+Helmkmap 7-9 RSA
+Henrickson 22730 (RSA)
+Henrickson 4326 (RSA)
+Henrickson 6608; RSA
+Henrickson 6688 (RSA)
+Henrickson & Lee 17485 (RSA)
+Hermann 7131 (RSA)
+Herndon 2582 (RSA)
+Hershkovitz 02-02 (RSA)
+Hershkovitz 02-03 (RSA)
+Hershkovitz 02-13 (RSA)
+Hershkovitz 02-14 (RSA)
+Hershkovitz 02-23 (RSA)
+Hershkovitz 02-24 (RSA)
+Hershkovitz 02-26 (RSA)
+Hershkovitz 02-30 (RSA)
+Hershkovitz 02-31 (RSA)
+Hershkovitz 02-33 (RSA)
+Hershkovitz 02-34 (RSA)
+Hershkovitz 02-36 (RSA)
+Hershkovitz 02-41 (RSA)
+Hershkovitz 02-42 (RSA)
+Hill 22450 RSA
+Hill 22450 (RSA)
+Hinneri s.n. (RSA)
+Hirschberg 262 (RSA)
+Hitchcock 25560 (RSA)
+Holden Arboretum HA_01_EN_08 RSA
+Holden Arboretum, HA_01_EN_08, RSA
+Holmgren 9169 (RSA)
+Holmgren & Reveal 1601 (RSA)
+Honer 132 (RSA)
+Horner 2414 (RSA)
+Howell RSA93015
+H. S. 5650 (RSA)
+Huber & Goodrich 2265 (RSA)
+Hutchins 3003 (RSA)
+Hutchinson 2262; RSA
+Hyatt 5823 (RSA)
+Ikeda 15896 (RSA)
+Iltis 29115 RSA
+Iltis G-5 RSA
+Ingram 509 (RSA)
+Irwin et al. 26503 (RSA)
+J.A.Churchill 7572013(RSA)
+Jacobs 6785 RSA
+J. Andre 16753 (RSA)
+J. B. Nelson 732 (RSA)
+J.D. Morefield 2863 (RSA344540)
+J. F. Emmel 1158 (RSA)
+J. Guo BB_01_PS_08 RSA
+J. Henrickson 19339, RSA
+J. I Davis and J. M. Porter RSA1463
+J.J. Morawetz 571 (RSA)
+J.J. Morawetz 639 (RSA)
+J. Lopez 265 [RSA]
+J.M. Orozco 180 (RSA)
+J.M. Orozco 334B (RSA)
+J.M. Porter 10245 (RSA)
+J.M. Porter 11251 (RSA)
+J.M. Porter 11276 (RSA)
+J.M. Porter 11282 [RSA]
+J.M. Porter 11326 (RSA)
+J.M. Porter 11850 (RSA)
+J.M. Porter 13081 [RSA]
+J.M. Porter 13082 [RSA]
+J.M. Porter 13085 [RSA]
+J.M. Porter 13090 [RSA]
+J.M. Porter 13115 [RSA]
+J.M. Porter 13213 [RSA]
+J.M. Porter 13251 [RSA]
+J.M. Porter 13261 [RSA]
+J.M. Porter 13271 [RSA]
+J.M. Porter 13272 [RSA]
+J.M. Porter 13276 [RSA]
+J.M. Porter 13283 [RSA]
+J.M. Porter 13289 [RSA]
+J.M. Porter 13293 [RSA]
+J.M. Porter 13323 [RSA]
+J.M. Porter 13872 [RSA]
+J.M. Porter 13918 [RSA]
+J.M. Porter 14206 [RSA]
+J.M. Porter 14213 [RSA]
+J.M. Porter 14217 [RSA]
+J.M. Porter 14295 (RSA)
+J.M. Porter 14534 [RSA]
+J.M. Porter 14571 [RSA]
+J.M. Porter 14757 [RSA]
+J.M. Porter 14989 (RSA)
+J.M. Porter 15074 [RSA]
+J.M. Porter 15188 [RSA]
+J.M. Porter 8723 (RSA, SJNM)
+J.M. Porter 9231 [RSA]
+J.M. Porter and A. Clifford 1055
+J.M. Porter and J. Cruse-Sanders 1437
+J.M. Porter and J. Cruse-Sanders 14387
+J.M. Porter and K.D. Heil 10989 (RSA)
+J.M. Porter and L.E. Machen 1025
+J.M. Porter and L.E. Machen 1055
+J.M. Porter and L.E. Machen 1080
+J.M. Porter and L.E. Machen 1082
+J.M. Porter and L.E. Machen 1121
+J.M. Porter and L.E. Machen 1437
+J.M. Porter and L.E. Machen 1445
+J.M. Porter and L.E. Machen 1446
+J.M. Porter and M. Heil 8804 (RSA
+J.M. Porter and T. Anderson 1426
+J.M. Porter and T. Anderson 1427
+J.M. Porter and T. Anderson 1428
+J.M. Porter and T. Anderson 1436
+J.M. Porter and T. Anderson 1437
+J.M. Porter and T. Anderson 1440
+J.M. Porter & J.T. Columbus 1173
+J.M. Porter, S.J. De Groot and T
+J. M. Stewart 86-18 (RSA)
+J. M. Stewart 8618 (RSA)
+Jolles 14 (RSA)
+Jolles 206 (RSA)
+Jolles 208 (RSA)
+Jolles 211 (RSA)
+Jolles 212 (RSA)
+Jolles 215 (RSA)
+Jolles 220 (RSA)
+Jolles 221 (RSA)
+Jolles 224 (RSA)
+Jolles 225 (RSA)
+Jolles 226 (RSA)
+Jolles 250 (RSA)
+Jolles 251 (RSA)
+Jolles 252 (RSA)
+Jolles 253 (RSA)
+Jolles 254 (RSA)
+Jolles 255 (RSA)
+Jolles 256 (RSA)
+Jolles 257 (RSA)
+Jolles 347 (RSA)
+Jolles 348 (RSA)
+Jolles 349 (RSA)
+Jolles 354 (RSA)
+Jolles 355 (RSA)
+Jolles 356 (RSA)
+Jolles 359 (RSA)
+Jolles 360 (RSA)
+Jolles 365 (RSA)
+Jolles 366 (RSA)
+Jolles 367 (RSA)
+Jolles 380 (RSA)
+Jolles 381 (RSA)
+Jolles 382 (RSA)
+Jolles 383 (RSA)
+Jolles 384 (RSA)
+Jolles 385 (RSA)
+Jolles 386 (RSA)
+Jolles 387 (RSA)
+Jolles 388 (RSA)
+Jolles 389 (RSA)
+Jolles 390 (RSA)
+Jolles 391 (RSA)
+Jolles 392 (RSA)
+Jolles 394 (RSA)
+Jolles 395 (RSA)
+Jolles 396 (RSA)
+Jolles 397 (RSA)
+Jolles 397S (RSA)
+Jolles 398 (RSA)
+Jolles 399 (RSA)
+Jolles 400 (RSA)
+Jolles 401 (RSA)
+Jolles 432 (RSA)
+Jolles 433 (RSA)
+Jolles 435 (RSA)
+Jolles 436 (RSA)
+Jolles 437 (RSA)
+Jolles 438 (RSA)
+Jolles 439 (RSA)
+Jolles 440 (RSA)
+Jolles 441 (RSA)
+Jolles 442 (RSA)
+Jolles 443 (RSA)
+Jolles 444 (RSA)
+Jolles 445 (RSA)
+Jolles 446 (RSA)
+Jolles 447 (RSA)
+Jolles 448 (RSA)
+Jolles 462 (RSA)
+Jolles 463 (RSA)
+Jolles 464 (RSA)
+Jolles 465 (RSA)
+Jolles 466 (RSA)
+Jolles 471 (RSA)
+Jolles 472 (RSA)
+Jolles 474A (RSA)
+Jolles 474 (RSA)
+Jolles 475 (RSA)
+Jolles 476 (RSA)
+Jolles 477 (RSA)
+Jolles 478 (RSA)
+Jolles 480 (RSA)
+Jolles 481 (RSA)
+Jolles 482 (RSA)
+Jolles 483 (RSA)
+Jolles 484 (RSA)
+Jolles 485 (RSA)
+Jolles 486 (RSA)
+Jolles 487 (RSA)
+Jolles 499 (RSA)
+Jolles 500 (RSA)
+Jolles 500 (RSA794213)
+Jolles 501 (RSA)
+Jolles 501 (RSA794186)
+Jolles 502 (RSA)
+Jolles 502 (RSA794215)
+Jolles 503 (RSA)
+Jolles 505 (RSA)
+Jolles 505 (RSA794173)
+Jolles 506 (RSA)
+Jolles 506 (RSA794171)
+Jolles 507 (RSA794172)
+Jolles 508 (RSA)
+Jolles 508 (RSA794221)
+Jolles 510 (RSA794170)
+Jolles 514 (RSA794190)
+Jolles 517 (RSA)
+Jolles 519 (RSA)
+Jolles 520 (RSA794211)
+Jolles 521 (RSA794214)
+Jolles 523 (RSA)
+Jolles 531 (RSA)
+Jolles 534 (RSA)
+Jolles 538 (RSA)
+Jolles 546 (RSA)
+Jolles 548 (RSA)
+Jolles 564 (RSA)
+Jolles 566 (RSA)
+Jolles 567 (RSA)
+Jolles 568 (RSA)
+Jolles 569 (RSA)
+Jolles 571 (RSA)
+Jolles 572 (RSA)
+Jolles 573 (RSA)
+Jolles 576 (RSA)
+Jolles 577 (RSA)
+Jolles 580 (RSA)
+Jolles 590 (RSA)
+Jolles 591 (RSA)
+Jolles 593 (RSA)
+Jolles 595 (RSA)
+Jolles 596 (RSA)
+Jolles 598 (RSA)
+Jolles 599A (RSA)
+Jolles 601 (RSA)
+Jolles 602 (RSA)
+Jolles 80A (RSA)
+Jolles Coll16 (RSA)
+J. Rebman 6086 (RSA)
+Judd 2455 (RSA)
+Junak 4204 (RSA)
+J. Whipple 2768 (RSA)
+Kan 8031 (RSA)
+Karst BBG1; RSA
+Karst CA00-01; RSA
+Karst CA02-02; RSA
+Karst CH03-01; RSA
+Karst CH03-02; RSA
+Karst CH03-04; RSA
+Karst CH03-05; RSA
+Karst CH03-06; RSA
+Karst CH03-07; RSA
+Karst CH03-08; RSA
+Karst LL11; RSA
+Karst MO01-06b; RSA
+Karst NC03-01; RSA
+Karst NC03-02; RSA
+Karst NE02-01; RSA
+Karst NE02-17; RSA
+Karst NE02-24; RSA
+Karst OR01-02; RSA
+Karst OR02-01; RSA
+Karst PE03-02; RSA
+Karst PE03-05; RSA
+Karst PE03-06; RSA
+Karst PE03-08; RSA
+Karst PE03-10; RSA
+Karst UK02-01; RSA
+Karst UK02-03; RSA
+Karst UK02-05; RSA
+Karst UK02-07; RSA
+Karst UK02-08; RSA
+Karst UK02-09; RSA
+Karst UK02-10; RSA
+Karst UK02-11; RSA
+Karst UK02-12; RSA
+Karst UK02-13; RSA
+Karst UK02-14; RSA
+Karst UK02-15; RSA
+Karst UK04-00; RSA
+Karst UK04-02; RSA
+Karst UK04-04; RSA
+Karst UK04-06; RSA
+Karst UK04-08; RSA
+Karst UK04-16; RSA
+Karst UK04-17; RSA
+Karst UK04-23; RSA
+Karst UK04-24; RSA
+Karst US01-13, RSA
+Karst US-01-14, RSA
+Karst US01-15, RSA
+Karst US01-16, RSA
+Karst US02-10-1, RSA
+Karst US02-8-2, RSA
+Karst US09-27 RSA
+KAS RSA
+Kiel 136 (RSA)
+Kiel 137 (RSA)
+Kiel 185 (RSA)
+Kiel & al. 108 (RSA)
+Kiel & al. 112 (RSA)
+Kiel & al. 113 (RSA)
+Kiel & al. 117 (RSA)
+Kiel & al. 122 (RSA)
+Kiel & al. 144 (RSA)
+Kiel & al. 145 (RSA)
+Kiel & al. 146 (RSA)
+Kiel & al. 149 (RSA)
+Kiel & al. 151 (RSA)
+Kiel & al. 155 (RSA)
+Kiel & al. 157 (RSA)
+Kiel & al. 158 (RSA)
+Kiel & al. 161 (RSA)
+Kiel & al. 162 (RSA)
+Kiel & al. 163 (RSA)
+Kiel & al. 166 (RSA)
+Kiel & al. 167 (RSA)
+Kiel & al. 170 (RSA)
+Kiel & al. 173 (RSA)
+Kiel & al. 174 (RSA)
+Kiel & al. 177 (RSA)
+Kiel & al. 58 (RSA)
+Kiel & al. 66 (RSA)
+Kiel & al. 74 (RSA)
+Kiel & al. 77 (RSA)
+Kiel & al. 81 (RSA)
+Kiel & al. 85 (RSA)
+Kiel & Clark 2 (RSA)
+Kiel & Columbus 36 (RSA)
+Kiel & Columbus 39 (RSA)
+Kiel et al. 102 (RSA)
+Kiel et al. 108 (RSA)
+Kiel et al. 112 (RSA)
+Kiel et al. 113 (RSA)
+Kiel et al. 117 (RSA)
+Kiel et al. 155 (RSA)
+Kiel et al. 167 (RSA)
+Kiel et al. 170 (RSA)
+Kiel et al. 18 (RSA)
+Kiel et al. 20 (RSA)
+Kiel et al. 56 (RSA)
+Kiel et al. 58 (RSA)
+Kiel et al. 5 (RSA)
+Kiel et al. 60 (RSA)
+Kiel et al. 66 (RSA)
+Kiel et al. 74 (RSA)
+Kiel et al. 77 (RSA)
+Kiel et al. 79 (RSA)
+Kiel et al. 85 (RSA)
+Kiel et al. 86 (RSA)
+Kiel et al. 89 (RSA)
+Kiel et al. 8 (RSA)
+Kiel et al. 97 (RSA)
+Kiel & McDade 127 (RSA)
+Kiel & McDade 133 (RSA)
+Kiel & McDade 138 (RSA)
+Kiel & McDade 94 (RSA)
+Kiel s.n. (RSA)
+Kiel & Tripp 21 (RSA)
+Korzhenervsky (RSA)
+Korzhenevsky s.n. (RSA)
+KSAN (M. Mennicken No. RSA 150)
+KSAN (M. Mennicken No. RSA 160)
+Kukkonen 12828 (RSA)
+Kukonen 12828 (RSA)
+LaDoux RSA
+L. Ahart 15231 (RSA)
+Landrum 5925, RSA
+Lang and Brashear 116 (RSA)
+L.A Prather 1151 [RSA]
+Lavranos & James 31042 (RSA)
+L. C. Anderson 9505 (RSA)
+L. C. Anderson 9670 (RSA)
+Leonard & Radford 1508 RSA
+Le Roy Gross et al. 882a (RSA)
+Levin 10-78 RSA
+Levin 10-83 RSA
+Levin 10-88 RSA
+Levin 10-93 RSA
+Levin 10-94 RSA
+Levin 10-95 RSA
+Levin 10-96 RSA
+Levin 10-99 RSA
+Levin and Miller 09-11 RSA
+Levin and Miller 09-13 RSA
+Levin and Miller 09-14 RSA
+Levin and Miller 10-07 RSA
+Levin and Miller 10-09 RSA
+Levin and Miller 10-108 RSA
+Levin and Miller 10-115 RSA
+Levin and Miller 10-119 RSA
+Levin and Miller 10-120 RSA
+Levin and Miller 10-127 RSA
+Levin and Miller 10-22 RSA
+Levin and Miller 10-55 RSA
+Levin and Miller 10-61 RSA
+L. Gross 2148 (RSA)
+L. Gross 2173 (RSA)
+L. Gross 2323 (RSA)
+L. Hufford 2931 (RSA)
+Liston 7-85-388/3 RSA
+Liston 82710 RSA
+Liston 827-4 RSA
+Living accession (RSA)
+L. Karst CW_01_VS_06 RSA
+L. Karst US01-13 RSA
+L. Karst US02-43 RSA
+L. Karst US02-8-2 RSA
+Lliully & al. 310 (RSA)
+Lliully et al. 310 (RSA)
+L. Mucina 200900/4 (MJG)
+L. Neuenschwander 7 (RSA)
+Longhi-Wagner 1562 RSA
+Lorence 4621 (RSA)
+Lozano et al. 1360 (RSA)
+Lozano et al. 1372 (RSA)
+Lozano et al. 1386 (RSA)
+L. Vazquez V. 486 [RSA]
+L. Vazquez V. 533 [RSA]
+Mackechnie (RSA)
+Makings & Setaro 3800 (RSA)
+Marriott 6575 (RSA)
+Marvin 1623 (RSA)
+Marvin 1707 (RSA)
+Mary Meyers s.n., RSA
+M.-A. Thiebaud s.n. (RSA)
+Matthews & Soule s.n. (RSA)
+Mayfield 1328 RSA
+Mayfield 1989 RSA
+Mayfield 2168 RSA
+M. Bagley & P. Athey 1932 (RSA)
+M. Beauchamp, s.n. (RSA 16315)
+McDade 1238 RSA
+McDade 1328 RSA
+McDade 1328 (RSA-POM)
+McDade et al. 1280 (RSA)
+McNeal 710 RSA
+McNeil 854 (RSA)
+M. de Decker 4606 (RSA)
+M. Denslow RSA-676436 (RSA)
+M.E. Jones s.n. (RSA172389)
+M.E. Jones s.n. (RSA76879)
+Miller and Levin 04-13 RSA
+Miller and Levin 04-14 RSA
+Miller and Levin 04-15 RSA
+Miller and Levin 05-42 RSA
+Miller and Levin 05-63 RSA
+Miller and Levin 05-68 RSA
+Miller and Levin 05-81 RSA
+Miller and Levin 05-86 RSA
+Miller and Levin 05-88 RSA
+Miller and Levin 08-27 RSA
+Miller and Levin 08-31 RSA
+M.L. Hoefs & al. 2560 (RSA)
+M.L. Ho fs & al. 2560 (RSA)
+M. Lujan, E. Tripp & D. Clark 55
+M. Mosulishvili G00-03 RSA
+Morefield 2898 (RSA)
+Morefield 5047 (RSA)
+Morefield 5071 (RSA)
+Moreno 26 RSA
+Morrell 403 RSA
+Morrell 403 [RSA]
+Morrell 403; RSA
+Morrell 403; RSA; Herbarium at Ranch
+Morris 8009 (RSA)
+Morse 1296 (RSA)
+Morse 1525 (RSA)
+Morse 1795 (RSA)
+Morton 6011 (RSA)
+Moss 2157 RSA
+Mosulishvili G99-08, RSA
+Mosulishvili G99-10, RSA
+Mosulishvili G99-12, RSA
+M. Pfauth US02-09 RSA
+M. Schafer & J. Sacks EX_01_PR_07 RSA
+M. Schafer J. Sacks EX_01_PR_07 RSA
+M. Schafer, J. Sacks, EX_01_PR_07, RSA
+MUB RSA 107/24
+MUB RSA113/20
+Munz 16294 (RSA)
+Murray et al. 256 (RSA)
+Murray et al. 344 (RSA)
+N. Alexeeva 02_EN_07 RSA
+N. Alexeeva SP_51_LA_07 RSA
+NBG-RSA08/17
+NBG-RSA09/17
+NBG-RSA13/17
+NBG-RSA16/17
+NBG-RSA19/17
+NBG-RSA22/17
+NBG-RSA24/17
+NBG-RSA38/17
+NBG-RSA47/17
+NBG-RSA48/17
+N. Cooper 1896 (RSA467995)
+Neese 11074 (RSA 299987)
+Neese & Goodrich 10723 RSA
+Nesom 7703 RSA
+N. Fraga et al. 1282 (RSA)
+Norris 2688 RSA
+Norris 3265 (RSA)
+NPB 1832
+null
+O#Brien s.n. (RSA)
+Ocampo 1425 (RSA)
+Ocampo 1426 RSA
+Ocampo 1433 RSA
+Ocampo 1463 RSA
+Ocampo 1474 (RSA)
+Ocampo 1480 RSA
+Ocampo 1480 (RSA)
+Ocampo 1482 RSA
+Ocampo 1482 (RSA)
+Ocampo 1485cv (RSA)
+Ocampo 1486 (RSA)
+Ocampo 1553cv RSA
+Ocampo 1660 et al. RSA, SI
+Ocampo 1708cv (RSA)
+Ocampo 1708cv RSA
+Ocampo 1714 RSA
+Ocampo 1716 RSA
+Ocampo 1772cv (RSA)
+Ocampo 1774cv RSA
+Ocampo 1775cv RSA
+Ocampo 1777cv RSA
+Ocampo 1778cv RSA
+Ocampo 1779cv RSA
+Ocampo 1780cv RSA
+Ocampo 1781cv RSA
+Ocampo 1782cv (RSA)
+Ocampo 1783cv (RSA, from seed)
+Ocampo and Morales 1484; RSA
+Ocampo & Columbus 1496 RSA
+Ocampo & Columbus 1505 (RSA)
+Ocampo & Columbus 1512 (RSA)
+Ocampo & Columbus 1515; RSA
+Ocampo & Columbus 1520; RSA
+Ocampo & Columbus 1527 RSA
+Ocampo & Columbus 1529 RSA
+Ocampo & Columbus 1529 (RSA)
+Ocampo et al. 1540 RSA, SI
+Ocampo et al. 1540 (RSA, SI)
+Ocampo et al. 1543 (RSA)
+Ocampo et al. 1545 (RSA, SI)
+Ocampo et al. 1553 (RSA, SI)
+Ocampo et al. 1556 RSA, SI
+Ocampo et al. 1556 (RSA, SI)
+Ocampo et al. 1569 (RSA, SI)
+Ocampo et al. 1581 (RSA, SI)
+Ocampo et al. 1586 (RSA, SI)
+Ocampo et al. 1591 (RSA, SI)
+Ocampo et al. 1598 (RSA, SI)
+Ocampo et al. 1606 (RSA, SI)
+Ocampo et al. 1611 (RSA, SI)
+Ocampo et al. 1615 (RSA, SI)
+Ocampo et al. 1619 (RSA, SI)
+Ocampo et al. 1636 (RSA, SI)
+Ocampo et al. 1638 RSA, SI
+Ocampo et al. 1638 (RSA, SI)
+Ocampo et al. 1645 (RSA, SI)
+Ocampo et al. 1647 RSA, SI
+Ocampo et al. 1661 RSA, SI
+Ocampo et al. 1662 (RSA, SI)
+Ocampo et al. 1665 RSA, SI
+Ocampo et al. 1718 (BRI, RSA)
+Ocampo et al. 1726 (BRI, RSA)
+Ocampo et al. 1733 (BRI, RSA)
+Ocampo et al. 1737 (BRI, RSA)
+Ocampo et al. 1747 (BRI, RSA)
+Ocampo et al. 1748 (BRI, RSA)
+Ocampo et al. 1749 (BRI, RSA)
+Ocampo et al. 1750 (BRI, RSA)
+Ocampo et al. 1751 (BRI, RSA)
+Ocampo et al. 1753 BRI, RSA
+Ocampo et al. 1753 (BRI, RSA)
+Ocampo et al. 1754 (BRI, RSA)
+Ocampo et al. 1758 (BRI, RSA)
+Ocampo et al. 1760 BRI, RSA
+Ocampo & Morales 1458 RSA
+Ocampo & Morales 1458 (RSA)
+Ocampo & Morales 1459 RSA
+Ocampo & Morales 1460 RSA
+Ocampo & Morales 1461 (RSA)
+Ocampo & Morales 1484 RSA
+Ocampo & Perez-Calix 1467 RSA
+OL, NBG-RSA01/17
+OL, NBG-RSA02/17
+OL,NBG-RSA02/17
+OL, NBG-RSA05/17
+OL, NBG-RSA06/17
+OL,NBG-RSA06/17
+OL, NBG-RSA12/17
+OL,NBG-RSA12/17
+OL, NBG-RSA14/17
+OL, NBG-RSA15/17
+OL, NBG-RSA17/17
+OL,NBG-RSA17/17
+OL, NBG-RSA18/17
+OL, NBG-RSA20/17
+OL,NBG-RSA20/17
+OL, NBG-RSA21/17
+OL,NBG-RSA21/17
+OL, NBG-RSA25/17
+OL,NBG-RSA25/17
+OL, NBG-RSA26/17
+OL, NBG-RSA27/17
+OL,NBG-RSA27/17
+OL, NBG-RSA28/17
+OL,NBG-RSA28/17
+OL, NBG-RSA30/17
+OL,NBG-RSA30/17
+OL, NBG-RSA32/17
+OL,NBG-RSA32/17
+OL, NBG-RSA34/17
+OL, NBG-RSA39/17
+OL,NBG-RSA39/17
+OL, NBG-RSA40/17
+OL,NBG-RSA40/17
+OL, NBG-RSA41/17
+OL,NBG-RSA41/17
+OL, NBG-RSA42/17
+OL, NBG-RSA43/17
+OL, NBG-RSA44/17
+OL,NBG-RSA44/17
+OL-RSA04/17
+OL-RSA10/17
+OL-RSA23/17
+OL-RSA29/17
+OL-RSA33/17
+O. Mistretta s.n., RSA
+Orchard 5310 (RSA)
+Orozco 180 (RSA)
+Orozco 334B (RSA)
+Overton 2708 (RSA)
+Parker2331 (RSA)
+Parvati s.n. RSA
+Parvati s.n.; RSA
+Perlman 12643 RSA
+Perlman 12643 (RSA)
+Peterson 14437 RSA
+Peterson 14450 RSA
+Peterson 15488 (RSA)
+Peterson 15769 (RSA)
+Peterson 16548 (RSA)
+Peterson 16564 (RSA)
+Peterson 16569 (RSA)
+Peterson 16595 (RSA)
+Peterson 16634 (RSA)
+Peterson 16663 (RSA)
+Peterson 17059 (RSA)
+Peterson 17079 (RSA)
+Peterson 17103 (RSA)
+Peterson 17138 (RSA)
+Peterson 17318 (RSA)
+Peterson 17319 (RSA)
+Peterson 17888 (RSA)
+Peterson 17898 (RSA)
+Peterson 17914 (RSA)
+Peterson 17950 (RSA)
+Peterson 17953 (RSA)
+Peterson 17954 (RSA)
+Peterson 17960 (RSA)
+Peterson 17961 (RSA)
+Peterson 17963 (RSA)
+Peterson 17972 (RSA)
+Peterson 17973 (RSA)
+Peterson 18029 (RSA)
+Peterson 18037 (RSA)
+Peterson 18048 (RSA)
+Peterson 18106 (RSA)
+Peterson 18107 (RSA)
+Peterson 18117 (RSA)
+Peterson 18119 (RSA)
+Peterson 18132 (RSA)
+Peterson 18140 (RSA)
+Peterson 18168 (RSA)
+Peterson 18172 (RSA)
+Peterson 18193 (RSA)
+Peterson 18210 (RSA)
+Peterson 18220 (RSA)
+Peterson 18255 (RSA)
+Peterson 18256 (RSA)
+Peterson 18303 (RSA)
+Peterson_1_CIT (RSA)
+Peterson 2.2_SUM (RSA)
+Peterson_2_CIT (RSA)
+Peterson 2_SUM (RSA)
+Pfauth US02-09 RSA
+Pfauth US02-09, RSA
+PI 209700 RSA
+PI 210336 RSA
+PI 213524 RSA
+PI 219568 RSA
+PI 219579 RSA
+PI 219976 RSA
+PI 240840 RSA
+PI 249139 RSA
+PI 263693 RSA
+PI 300141 RSA
+PI 300696 RSA
+PI 300724 RSA
+PI 301274 RSA
+PI 301282 RSA
+PI 301384 RSA
+PI 301731 RSA
+PI 301743 RSA
+PI 301773 RSA
+PI 302033 RSA
+PI 302062 RSA
+PI 337509 RSA
+PI 364892 RSA
+PI 371930 RSA
+PI 384059 RSA
+PI 404289 RSA
+PI 404628 RSA
+PI 404743 RSA
+PI 469251 RSA
+PI 476298 RSA
+PI 477958 RSA
+PI 516599 RSA
+PI 524718 RSA
+PI 538754 RSA
+Pierson 12462 RSA
+P.L. Morrell and S. Carlquist 13
+Podlech 41177 RSA
+Podlech 41883 RSA
+Podlech 45138 RSA
+Polatschek s.n. (RSA)
+Porter 10560 RSA
+Porter 10566 RSA
+Porter 10711 RSA
+Porter 10907 RSA
+Porter 11277 RSA
+Porter 11350 RSA
+Porter 11358 RSA
+Porter 11564 RSA
+Porter 11583 RSA
+Porter 11765, RSA
+Porter 11849 RSA
+Porter 11912; RSA
+Porter 11928 RSA
+Porter 12195 RSA
+Porter 12255 RSA
+Porter 13705 RSA
+Porter 14370 RSA
+Porter 14726 (RSA)
+Porter 15422 RSA
+Porter 7142 RSA
+Porter 8571 RSA
+Porter 8599 RSA
+Porter 9290 RSA
+Porter 9295 RSA
+Porter & Columbus 11230 RSA
+Porter & Columbus 11246 RSA
+Porter & Columbus 11732 RSA
+Porter & Columbus 11930 RSA
+Porter & Columbus 12034 RSA
+Porter & Columbus 12165 RSA
+Porter & Columbus 12166 RSA
+Porter & Columbus 12199 RSA
+Porter & Columbus 12227 RSA
+Porter & Heil 7341; RSA
+Porter & Heil 7341; RSA; Herbarium a
+Porter & Heil 7942 RSA
+Porter & Heil 7991RSA
+Porter & Machen 10253 RSA
+Porter & Machen 10253; RSA; Herbariu
+Porter & Machen 10819 RSA
+Porter & Machen 10849 RSA
+Porter & Machen 10849; RSA; Herbariu
+Porter & Machen 10851 RSA
+Porter & Machen 11542 RSA
+Porter & Machen 12121 (RSA)
+Porter & Machen 14987 RSA
+Porter & Machen 7184 RSA
+Porter & Machen 8052 RSA
+Porter & Machen 8565 RSA
+Porter & Machen 9004 RSA
+Porter & Machen 9102 RSA
+Porter & Porter 7810 (RSA)
+Porter & Porter 8295 (RSA)
+Porter s.n. RSA
+Porter s.n.; RSA
+Porter & Steinmann 13895 RSA
+Porter & Steinmann 14742 (RSA)
+PRC194
+PREM (M. Mennicken No. RSA 109)
+PREM (M. Mennicken No. RSA 110)
+PREM (M. Mennicken No. RSA 114)
+PREM (M. Mennicken No. RSA 121)
+PREM (M. Mennicken No. RSA 124)
+PREM (M. Mennicken No. RSA 130)
+PREM (M. Mennicken No. RSA 140)
+PREM (M. Mennicken No. RSA 143)
+PREM (M. Mennicken No. RSA 149)
+PREM (M. Mennicken No. RSA 19)
+PREM (M. Mennicken No. RSA 206)
+Prince 1995-210 (RSA)
+Prince 1995-222 (RSA)
+Prince 1995-223 (RSA)
+Prince 1995-239 (RSA)
+Prince 1995-240 (RSA)
+Prince 2003-498 (RSA)
+Prince 210 RSA
+Prince 222 RSA
+Prince 239 RSA
+Prince 240 RSA
+Prince 498 RSA
+Prince 499 RSA
+Prince 520 RSA
+Prince (RSA)
+Prince XXX RSA
+P. Tenorio 6597 [RSA]
+P.W. Fritsch 1359 (RSA)
+Radford 43094 (RSA)
+Radford 44741 (RSA)
+Rebman 10825 (RSA 705579)
+Rebman 2579 (RSA)
+Rebman 3510 RSA
+Rebman 3561 RSA
+Rebman 3579 (RSA)
+Reeder 9479 RSA
+Reeder & Reeder 6198 RSA
+Reeder & Reeder 6198 (RSA)
+Reeder & Reeder 9431 RSA
+Reeder & Reeder 9431 (RSA)
+Refulio 227 RSA
+Refulio 227 (RSA)
+Refulio et al. 219 RSA
+Refulio-Rodriguez 118 (RSA)
+Refulio-Rodriguez 140 (RSA)
+Refulio-Rodriguez 145 (RSA)
+Refulio-Rodriguez 151 (RSA)
+Refulio-Rodriguez 155 (RSA)
+Refulio-Rodriguez 165 (RSA)
+Refulio-Rodriguez 231 (RSA)
+Refulio-Rodriguez 238 (RSA)
+Reina 96-542 (RSA)
+Reiseberg s.n. RSA
+Renvoize 3068 RSA
+Reyes-Betancort s.n (RSA, from seed)
+R.F. Thorne 48418 (RSA)
+R.F. Thorne 53719 (RSA)
+R. F. Thorne 54937 (RSA)
+R. F. Thorne 60716 (RSA)
+R. Gagnidze et al. 2415 (RSA)
+R. Gustafson 2408 (RSA)
+R. Gustafson 3170 (RSA)
+R. Moran 8056 (RSA)
+R.M. Straw and M. Forman 1340 (RSA)
+Roalson 1214 (RSA)
+Roalson 1215 (RSA)
+Roalson 1216 (RSA)
+Roalson 1224 (RSA)
+Roalson 1225 (RSA)
+Roalson 1276 (RSA)
+Roalson 1283 (RSA)
+Roalson 1285 (RSA)
+Roalson 1291 (RSA)
+Roalson 1294 (RSA)
+Roalson 1298 (RSA)
+Roalson 1299 (RSA)
+Roalson 1300 (RSA)
+Roalson 1307 (RSA)
+Roalson 1310 (RSA)
+Roalson 1315 (RSA)
+Roalson 1320 (RSA)
+Roalson 1322 (RSA)
+Roalson 1323 (RSA)
+Roalson 1329 (RSA)
+Roalson 1333 (RSA)
+Roalson 1334 (RSA)
+Roalson 1336 (RSA)
+Roalson 1341 (RSA)
+Roalson 1343 (RSA)
+Roalson 1346 (RSA)
+Roalson 1350 (RSA)
+Roalson 1351 (RSA)
+Roalson 1358 (RSA)
+Roalson 1394 (RSA)
+Roalson 1402 (RSA)
+Roalson 1409 (RSA)
+Roalson s.n. (RSA)
+Roberts 5434 RSA
+Roberts 6088 (RSA 703730)
+Rodriguez 1550 (RSA)
+Roivainen 2357 (RSA)
+Roivainen 2630 (RSA)
+Ross 3100a RSA
+Ross 7838 (RSA)
+Ross 8616 (RSA)
+Ross s.n. RSA
+Rothrock 3011 (RSA)
+RSA
+RSA 001
+RSA:001
+RSA 002
+RSA:002
+RSA 005
+RSA:005
+RSA 007
+RSA:007
+RSA 009
+RSA:009
+RSA 011
+RSA:011
+RSA 015
+RSA:015
+RSA 016
+RSA:016
+RSA:043
+RSA 104/16
+RSA 105/01
+RSA 105/08
+RSA 105/11
+RSA 106
+RSA 120/15
+RSA 12450
+RSA 125
+RSA:1274
+RSA 1307720
+RSA:131949
+RSA 148
+RSA 153
+RSA 155
+RSA:15738
+RSA 162
+RSA 164
+RSA 166
+RSA 173
+RSA 176
+RSA 191
+RSA 204667 Simon Laegard 293
+RSA 211
+RSA 213
+RSA 21761
+RSA:21761
+RSA223799
+RSA 254201 HD. House 26642
+RSA 2591
+RSA272592
+RSA 29
+RSA-292625
+RSA 295078 RA. Norris 4209
+RSA:307559
+RSA 310220 M. Williams 788
+RSA 310689 F. Rolland-Germain
+RSA-312699
+RSA 33
+RSA339353
+RSA341926
+RSA346621
+RSA 3468
+RSA:352162
+RSA36_17
+RSA:363552
+RSA:3638 Steinmann&SotoNunez
+RSA:376301
+RSA:376303
+RSA:376313
+RSA:376316
+RSA:376317
+RSA:376319
+RSA:376320
+RSA 387427
+RSA:418933
+RSA:4416-21
+RSA442966
+RSA:444032
+RSA:449
+RSA457775
+RSA:460710
+RSA:462447
+RSA 497838
+RSA 504124 M. Joan Foote3176A
+RSA 505311
+RSA:508466
+RSA:508468
+RSA 518552 NM. Fellows, AC. Sanders,
+RSA:523184
+RSA524336
+RSA:532516
+RSA 532974
+RSA:544969
+RSA551272
+RSA 553063 MA. Baker 8963
+RSA:568-82
+RSA571207
+RSA575744
+RSA-576564
+RSA 585660
+RSA:5887 Steinmann&Ramirez-Amezcua
+RSA 592121
+RSA593773
+RSA 596543 DL. Banks 1142
+RSA:599655
+RSA 60887
+RSA:60887
+RSA614189
+RSA626035
+RSA627058
+RSA 627574
+RSA 628500 R. D. Worthington27576
+RSA:641369
+RSA:641370
+RSA647718
+RSA 657500
+RSA:659688
+RSA660941
+RSA:663792
+RSA:663921
+RSA667225
+RSA:677797
+RSA:678140
+RSA679273
+RSA680594
+RSA:680896
+RSA 681977
+RSA682210
+RSA:6849 Steinmann&Cervantes-Alcayde
+RSA687469
+RSA:688738
+RSA:688743
+RSA:690929
+RSA:692006
+RSA695764
+RSA 701560
+RSA:701560
+RSA701934
+RSA:705187
+RSA:705322
+RSA 705878
+RSA708099
+RSA7090368
+RSA710334
+RSA 710498
+RSA 712497
+RSA712528
+RSA 712992
+RSA 713363
+RSA 713574
+RSA718314
+RSA718785
+RSA719210
+RSA720622
+RSA727597
+RSA:730294
+RSA732126
+RSA 737589
+RSA740273
+RSA:746492
+RSA749732
+RSA:751997
+RSA753344
+RSA757079
+RSA761665
+RSA:761740
+RSA:767875
+RSA:767897
+RSA768519
+RSA-768520
+RSA768764
+RSA773164
+RSA774529
+RSA775375
+RSA775735
+RSA776566
+RSA777389
+RSA777399
+RSA777629
+RSA777841
+RSA777861
+RSA:778358
+RSA778366
+RSA778393
+RSA:778466
+RSA779029
+RSA779157
+RSA779878
+RSA:780852
+RSA:781391
+RSA:782468
+RSA784818
+RSA788981
+RSA 789889
+RSA792292
+RSA792694
+RSA792870
+RSA794006
+RSA794015
+RSA794118
+RSA794313
+RSA795029
+RSA795260
+RSA795772
+RSA796124
+RSA796423
+RSA798317
+RSA798686
+RSA799115
+RSA799701
+RSA 8
+RSA801911
+RSA803665
+RSA804183
+RSA804989
+RSA805425
+RSA805874
+RSA805962
+RSA806026
+RSA806065
+RSA806111
+RSA806114
+RSA806115
+RSA806174
+RSA806223
+RSA806271
+RSA806273
+RSA806391
+RSA806808
+RSA807310
+RSA807741
+RSA808260
+RSA808421
+RSA808519
+RSA808520
+RSA808587
+RSA809065
+RSA809155
+RSA809218
+RSA809501
+RSA809569
+RSA809647
+RSA809812
+RSA809815
+RSA810151
+RSA810780
+RSA810968
+RSA811000
+RSA811166
+RSA811248
+RSA811355
+RSA811723
+RSA812011
+RSA812544
+RSA812553
+RSA813160
+RSA813298
+RSA813857
+RSA814162
+RSA814230
+RSA815157
+RSA815367
+RSA815963
+RSA817062
+RSA817363
+RSA817431
+RSA817482
+RSA817591
+RSA818560
+RSA818568
+RSA821990
+RSA822394
+RSA822702
+RSA822717
+RSA822738
+RSA824121
+RSA826808
+RSA 827495
+RSA 94268 Peter Rubtzoff 1022
+RSA:96-587 Reina
+RSA 989
+RSA:989
+RSA:Akhalkatsi UDBG99-03
+RSA:Alexeeva R01-23
+RSA:A.L. Ingram 544
+RSA:Appleby 1104
+RSA:Ashworth 100
+RSA:Ashworth 254
+RSA:Ashworth 261
+RSA:Ashworth 270
+RSA:Ashworth 271
+RSA:Ashworth 273
+RSA:Ashworth 275
+RSA:Ashworth 280
+RSA:Ashworth 282
+RSA:Ashworth 285
+RSA:Ashworth 308
+RSA:Ashworth 35
+RSA:Ashworth 37
+RSA:Ashworth 42
+RSA:Ashworth 58
+RSA:Ashworth 59
+RSA:Ashworth 62
+RSA:Ashworth 76
+RSA:Ashworth 77
+RSA:Ashworth 82
+RSA:Ashworth 84
+RSA:Axelrod 8856
+RSA:Balkwill11219
+RSA:Balkwill4005
+RSA:Balkwill7617
+RSA:Balkwill8445
+RSA:Balkwill9316
+RSA:Balkwill9831
+RSA botanic garden s.n.
+RSA:Cerros 1900
+RSA:Cerros 1928
+RSA:Cerros 2414
+RSA:Cerros 2432
+RSA:Columbus 2190
+RSA:Columbus 2198
+RSA:Columbus 2208
+RSA:Columbus 2231
+RSA:Columbus 2287
+RSA:Columbus 2331
+RSA:Columbus 2338
+RSA:Columbus 2353
+RSA:Columbus 2357
+RSA:Columbus 2376
+RSA:Columbus 2420
+RSA:Columbus 2422
+RSA:Columbus 2634
+RSA:Columbus 2851
+RSA:Columbus 2900
+RSA:Columbus 2901
+RSA:Columbus 2907
+RSA:Columbus 3207
+RSA:Columbus 3282
+RSA:Columbus 3319
+RSA:Columbus 3432
+RSA:Columbus 3468
+RSA:Columbus 3471
+RSA:Columbus 3500
+RSA:Columbus 5194
+RSA:Columbus 5302
+RSA:Crosby et al. 285
+RSA:D. Bell 2697
+RSA:D. Bell 4056
+RSA:D. Bell 4215
+RSA:D. Bell 4664
+RSA:De Groot 2333
+RSA:D. Jolles 512
+RSA:D.W.Crewz 1558
+RSA:D. York 2630
+RSA:F.M. Roberts 6559
+RSA:G.Crow and D.I.Rivera 7573
+RSA:G.K. Helmkamp 15592
+RSA:Guo BJ07-23
+RSA:Guo BJ07-30
+RSA:Guo Bj08-16
+RSA:Guo HZ08-17
+RSA:H. Bell 458E
+RSA:H. Bell 548
+RSA:Hernandez-Cardenasetal 260
+RSA:J. Andre 19186
+RSA:J. Andre 22373
+RSA:J. Andre 22968
+RSA J.Henrickson 13417
+RSA:J.M. Porter 15286
+RSA:Johnson 96-010
+RSA:Johnson 97-008
+RSA:J.Swabrick 8396
+RSA:J.T.Columbus 3069
+RSA:J.T.Columbus 3100
+RSA:J. T. Columbus 3219
+RSA:J.T.Columbus 3338
+RSA:J.T.Columbus 3359
+RSA:J. T. Columbus 3588
+RSA:J. T. Columbus 5049
+RSA:J.T. Columbus 5049
+RSA:J.T. Columbus 5085
+RSA:J.T.Columbus 5087
+RSA:J.T.Columbus 5131
+RSA:J.T.Columbus 5133
+RSA:J.T.Columbus 5208
+RSA:J. Wood 1159
+RSA:J. Wood 3006
+RSA:Karst US01-13
+RSA:Karst US-01-14
+RSA:Karst US01-15
+RSA:Karst US01-16
+RSA:Karst US02-10
+RSA:K.Balkwill et al. 8380
+RSA:K.Balkwill et. al 8380
+RSA:K. Thorne 1117
+RSA:L. Ahart 15955
+RSA:L.C.Anderson 10799
+RSA:L.DeBuhr 630
+RSA:L'Doux
+RSA:Lorence 4621
+RSA:L. Sayla L06-50
+RSA:M.DeDecker 6297
+RSA:M.Lujan 480
+RSA:M.Lujan 526
+RSA:M.Lujan 529
+RSA:M.Lujan 531
+RSA:M. Mosulishvili G00-04
+RSA:M. Mosulishvili G00-05
+RSA:Morrell 403
+RSA:Mosulishvili G00-02
+RSA:Mosulishvili G99-12
+RSA:Mosulishvili G99-16
+RSA:Ocampo 1765
+RSA Ocampo et al. 1543
+RSA:O.F.Clarke 119714-939
+RSA:Pfauth US02-09
+RSA-POM 650
+RSA-POM, A. C. Sanders 15887
+RSA-POM, J. T. Howell 29190
+RSA-POM, R. F. Thorne 53506
+RSA:Porter 10367
+RSA:Porter 10842
+RSA:Porter 12192
+RSA:Porter 12199
+RSA:Porter 15422
+RSA Prince
+RSA Prince 210
+RSA Prince 222
+RSA Prince 223
+RSA Prince 239
+RSA Prince 240
+RSA Prince 498
+RSA:Raz&Cerros 135
+RSA:Rebman 3510
+RSA:Rebman4552
+RSA:Reddy646
+RSA:Refulio et al. 219
+RSA:Reina 96-587
+RSA:R. Felger 02-398
+RSA:Roalson 1225
+RSA:R. Swinney 10599
+RSA:S11551
+RSA:Sanders11467
+RSA:Schmid 1979-18
+RSA:Shevock11551
+RSA:Shevock1274
+RSA:Siqueiros 4394
+RSA:Siqueiros 4401
+RSA:Siqueiros 4404
+RSA:Siqueiros 4417
+RSA:Siqueiros 4436
+RSA:Siqueiros 4441
+RSA:Siqueiros 4449
+RSA:Siqueiros 4454
+RSA:Siqueiros 4456
+RSA:Siqueiros 4457
+RSA:Siqueiros 4464
+RSA:Siqueiros 4484
+RSA:Siqueiros 4489
+RSA:Siqueiros 4490
+RSA:Siqueiros 4511
+RSA:Siqueiros 4526
+RSA:Siqueiros 4530
+RSA:Siqueiros 4531
+RSA:Siqueiros 4533
+RSA:Siqueiros 4535
+RSA:Siqueiros 4537
+RSA:Siqueiros 4539
+RSA:Siqueiros 4685
+RSA:s.n.
+RSA:Sousa 141
+RSA:Steinman 730
+RSA:Steinmann 1110
+RSA:Steinmann 1160
+RSA:Steinmann1410
+RSA:Steinmann757
+RSA:Steinmann 794
+RSA:Steinmann94-153
+RSA:Steinmann&Cervantes-Alcayde 6849
+RSA:Steinmann&Ramirez-Amezcua 5887
+RSA:S. White 12237
+RSA:Thibault et Denslow s.n.
+RSA:Tommerup 355
+RSA:T.R.VanDevender s.n.
+RSA:T. Stoughton 1516
+RSA:T. Stoughton 1549
+RSA:T. Stoughton 1705
+RSA:T. Stoughton 1711
+RSA:T. Stoughton 1717
+RSA:T. Stoughton 1751
+RSA:T. Stoughton 1758
+RSA:T. Stoughton 1759
+RSA:T. Stoughton 1762
+RSA:Usta T02-11
+RSA:Usta T02-13
+RSA:Usta T02-15
+RSA:Usta T03-01
+RSA:Usta T03-03
+RSA:Usta T03-07
+RSA:Usta T03-08
+RSA:Usta T03-10
+RSA:Wheeler NO06Tr01
+RSA:Wilson AU01-07
+RSA:Wilson BFA07-18
+RSA:Wilson BFA07-19
+RSA:Wilson BJ07-27
+RSA:Wilson CB07-01
+RSA:Wilson DBG05-19
+RSA:Wilson DBG05-23
+RSA:Wilson DBG05-34
+RSA:Wilson DBG 05-35
+RSA:Wilson D-G05-19
+RSA:Wilson G00-03
+RSA:Wilson G98-13
+RSA:Wilson G98-14
+RSA:Wilson G98-20
+RSA:Wilson G99-08
+RSA:Wilson G99-09
+RSA:Wilson H08-01
+RSA:Wilson HA07-04
+RSA:Wilson HA07-15
+RSA:Wilson JM06-02
+RSA:Wilson JM06-05
+RSA:Wilson JM06-09
+RSA:Wilson JM06-10
+RSA:Wilson JM06-12
+RSA:Wilson JPW05-01
+RSA:Wilson JPW05-03
+RSA:Wilson JPW08-30
+RSA:Wilson Jpw08-32
+RSA:Wilson LB05-39
+RSA:Wilson LB05-46
+RSA:Wilson LB05-50
+RSA:Wilson LB05-51
+RSA:Wilson LB05-52
+RSA:Wilson LK04-17
+RSA:Wilson MB07-14
+RSA:Wilson Mg04-14
+RSA:Wilson NP06-65
+RSA:Wilson PH04-09
+RSA:Wilson PH04-11
+RSA:Wilson PK05-24
+RSA:Wilson R01-18
+RSA:Wilson R01-19
+RSA:Wilson R01-22
+RSA:Wilson S06-39
+RSA:Wilson S06-40
+RSA:Wilson S06-46
+RSA:Wilson S06-47
+RSA:Wilson S06-48
+RSA:Wilson S06-49
+RSA:Wilson S06-50
+RSA:Wilson SP07-06
+RSA:Wilson SP07-07
+RSA:Wilson SP07-10
+RSA:Wilson Sp07-12
+RSA:Wilson SP07-13
+RSA:Wilson T03-10
+RSA:Wilson T04-03
+RSA:Wilson T04-06
+RSA:Wilson T04-08
+RSA:Wilson T06-33
+RSA:Wilson T06-52
+RSA:Wilson T06-57
+RSA:Wilson T06-60
+RSA:Wilson T06-63
+RSA:Wilson T11-04
+RSA:Wilson T11-09
+RSA:Wilson T11-11
+RSA:Wilson T11-19
+RSA:Wilson US01-01
+RSA:Wilson US01-12
+RSA:Wilson US92-28
+RSA:Wilson US92-75
+RSA:Wilson US92-83
+RSA:Wilson US93-02
+RSA:Wilson US93-65
+RSA:Wilson US93-78
+RSA:Wilson UZ11-21
+RSA:Wilson YS06-17
+RSA:Wilson YS06-18
+RSA:YS06-17
+RSA:YS06-21
+RSA:YS06-22
+RSA:Y. Sapir YS06-30
+R.S. Felger 03-431 (RSA)
+Rzedowski 27282 (RSA)
+Rzedowsky 654 (RSA)
+S.A. Junak 1053, RSA
+S.A. Junak SN-888 (RSA)
+Sanchez-Ken 635 RSA
+Sanders 25759 (RSA 712717)
+Sanders 31665 (RSA 713933)
+Sanders 5337 (RSA)
+Sanders 5905 RSA
+Sanders et al. 17902 RSA
+S. Boyd 2601 (RSA)
+S. Boyd 2723 (RSA519545)
+S. Boyd 4435 (RSA)
+S. Boyd 8354 (RSA)
+S. Boyd and T. Ross 5381, RSA
+S. Boyd and T. Ross 5441, RSA
+S. Boyd and T. Ross 5756, RSA
+SC-380-03 RSA
+S. Carlquist 477 (RSA)
+Schmid 1979-18 (RSA)
+Schmidt 2592 (RSA)
+Schubert s.n. RSA
+S. D. White 4733 (RSA)
+Sekndzic 5067 RSA
+SH120
+Shaw 5270 (RSA)
+Shilom Ton 8199(RSA)
+Shilom Ton 8199 (RSA)
+Singh s.n. RSA
+Sino-American Bot Exped 1574 (RSA)
+Siqueiros 4394 RSA
+Siqueiros 4395 RSA
+Siqueiros 4401 RSA
+Siqueiros 4404 RSA
+Siqueiros 4416 RSA
+Siqueiros 4417 RSA
+Siqueiros 4421 RSA
+Siqueiros 4436 RSA
+Siqueiros 4441 RSA
+Siqueiros 4442 RSA
+Siqueiros 4449 RSA
+Siqueiros 4451 RSA
+Siqueiros 4454 RSA
+Siqueiros 4456 RSA
+Siqueiros 4457 RSA
+Siqueiros 4464 RSA
+Siqueiros 4468 RSA
+Siqueiros 4470 RSA
+Siqueiros 4472 RSA
+Siqueiros 4475 RSA
+Siqueiros 4486 RSA
+Siqueiros 4487 RSA
+Siqueiros 4490 RSA
+Siqueiros 4503 RSA
+Siqueiros 4504 RSA
+Siqueiros 4511 RSA
+Siqueiros 4526 RSA
+Siqueiros 4530 RSA
+Siqueiros 4533 RSA
+Siqueiros 4535 RSA
+Siqueiros 4537 RSA
+Siqueiros 4539 RSA
+Siqueiros 4579 RSA
+Siqueiros 4586 RSA
+Siqueiros 4587 RSA
+Siqueiros 4591 RSA
+Siqueiros 4594 RSA
+Skendzic 5065 RSA
+Skendzic 5066 RSA
+Skendzic 5068 RSA
+Skendzic 5069 RSA
+Skendzic 5070 RSA
+Skendzic 5071 RSA
+Skendzic 5072 RSA
+Skendzic 5073 RSA
+Skendzic 5074 RSA
+S. Krosnick 350 (OS,RSA-POM)
+S. Krosnick 356 (RSA-POM)
+S. Krosnick 363 (RSA-POM)
+S. Krosnick 365 (RSA-POM)
+S. Krosnick 371 (RSA-POM)
+S. Krosnick 385 (RSA-POM)
+S. Krosnick 387 (RSA-POM)
+S. Krosnick 564 (RSA-POM)
+S. Krosnick 569 (RSA-POM)
+Skvortsov et al. s.n. (RSA)
+Skvortsov s.n. (RSA)
+Slageren 13 RSA
+Slageren 36 RSA
+Smith 209 RSA
+Smith 5742 RSA
+Smyth 175 (RSA)
+Snogerup 4122 (RSA)
+Snogerup & Snogerup 3214 (RSA)
+Snogerup & Snogerup 4181 (RSA)
+Solbrig 3647 (RSA)
+Solomon 3754 (RSA)
+Sousa 141 RSA
+Spellenberg 8569; RSA
+Spencer 3517-21 (RSA)
+Spencer 3517-41 (RSA)
+Spencer 3610-42 (RSA)
+Spencer 3617-31 (RSA)
+Spencer 3618-41 (RSA)
+Spencer 3618-42 (RSA)
+Spencer 3618-a1 (RSA)
+Spencer 418 (RSA)
+Spencer 4416-21 (RSA)
+Spencer 4514-a1 (RSA)
+Spencer 4514-d1 (RSA)
+Spencer 4514-n1 (RSA)
+Spencer 4601-12 (RSA)
+Spencer 4714-31 (RSA)
+Spencer 4714-41 (RSA)
+Spencer 55h-03 (RSA)
+Spencer 55i-04 (RSA)
+Spencer 55i-08 (RSA)
+Spencer 55j-03 (RSA)
+Spencer 567-09 (RSA)
+Spencer 568-01 (RSA)
+Spencer 568-82 (RSA)
+Spencer 569-01 (RSA)
+Spencer 569-16 (RSA)
+Spencer 569-27 (RSA)
+Spencer 57-11 RSA
+Spencer 57v-11 (RSA)
+Spencer 581-11 (RSA)
+Spencer 589-11 (RSA)
+Spencer 58b-22 (RSA)
+Spencer 595-11 (RSA)
+Spencer Porter 10817 (RSA)
+Steinman 881 (RSA)
+Steinmann 1020 RSA
+Steinmann 1020, RSA
+Steinmann 1032 RSA
+Steinmann 1062 (RSA)
+Steinmann 1070 RSA
+Steinmann 1079 RSA
+Steinmann 1094 RSA
+Steinmann 1110 RSA
+Steinmann 1139 RSA
+Steinmann 1150, RSA
+Steinmann 1174 RSA
+Steinmann 1199 RSA
+Steinmann 1235 RSA
+Steinmann 1241 RSA
+Steinmann 1252 RSA
+Steinmann 1272 RSA
+Steinmann 1285 RSA
+Steinmann 1347 RSA
+Steinmann 1372, RSA
+Steinmann 1393 RSA
+Steinmann 1400 RSA
+Steinmann 1407 RSA
+Steinmann 1407, RSA
+Steinmann 1423 RSA
+Steinmann 1424 RSA
+Steinmann 1425 RSA
+Steinmann 1426 RSA
+Steinmann 1427 RSA
+Steinmann 1428 RSA
+Steinmann 1429 RSA
+Steinmann 1430 RSA
+Steinmann 1431 RSA
+Steinmann 1432 RSA
+Steinmann 1433 RSA
+Steinmann 1434 RSA
+Steinmann 1435 RSA
+Steinmann 1436 RSA
+Steinmann 1438 RSA
+Steinmann 1440 RSA
+Steinmann 1440, RSA
+Steinmann 1441 RSA
+Steinmann 1441, RSA
+Steinmann 1442 RSA
+Steinmann 1442, RSA
+Steinmann 1443 RSA
+Steinmann 1444 RSA
+Steinmann 1445-A RSA
+Steinmann 1445-B RSA
+Steinmann 1446 RSA
+Steinmann 1447 RSA
+Steinmann 1448 RSA
+Steinmann 1449 RSA
+Steinmann 1450 RSA
+Steinmann 1451 RSA
+Steinmann 1452 RSA
+Steinmann 1453 RSA
+Steinmann 1454-A RSA
+Steinmann 1454-B RSA
+Steinmann 1455 RSA
+Steinmann 1456 RSA
+Steinmann 1457 RSA
+Steinmann 1458 RSA
+Steinmann 1459 RSA
+Steinmann 1460 RSA
+Steinmann 1461 RSA
+Steinmann 1462 RSA
+Steinmann 1463 RSA
+Steinmann 1464 RSA
+Steinmann 1465 RSA
+Steinmann 1466 RSA
+Steinmann 1467 RSA
+Steinmann 1468 RSA
+Steinmann 1469 RSA
+Steinmann 1470 RSA
+Steinmann 1471 RSA
+Steinmann 1472-A RSA
+Steinmann 1472-B RSA
+Steinmann 1472-C RSA
+Steinmann 1473-A RSA
+Steinmann 1473-B RSA
+Steinmann 1473 RSA
+Steinmann 1473, RSA
+Steinmann 1474 RSA
+Steinmann 1475 RSA
+Steinmann 1476 RSA
+Steinmann 1477 RSA
+Steinmann 1478 RSA
+Steinmann 1479 RSA
+Steinmann 1479, RSA
+Steinmann 1480 RSA
+Steinmann 1481 RSA
+Steinmann 1482 RSA
+Steinmann 1483 RSA
+Steinmann 1484 RSA
+Steinmann 1485 RSA
+Steinmann 1486 RSA
+Steinmann 1487 RSA
+Steinmann 1488 RSA
+Steinmann 1489 RSA
+Steinmann 1490 RSA
+Steinmann 1491 RSA
+Steinmann 1492 RSA
+Steinmann 1494 RSA
+Steinmann 1494, RSA
+Steinmann 1495 RSA
+Steinmann 1496 RSA
+Steinmann 1497 RSA
+Steinmann 1497, RSA
+Steinmann 1498 RSA
+Steinmann 1499 RSA
+Steinmann 1620 RSA
+Steinmann 1621 RSA
+Steinmann 1622 RSA
+Steinmann 1623 RSA
+Steinmann 1624 RSA
+Steinmann 1922 RSA
+Steinmann 1922, RSA
+Steinmann 2024, RSA
+Steinmann 2028 (RSA)
+Steinmann 589 RSA
+Steinmann 589, RSA
+Steinmann 606 (RSA)
+Steinmann 745 RSA
+Steinmann 754 RSA
+Steinmann 794 RSA
+Steinmann 801 RSA
+Steinmann 802 RSA
+Steinmann 925 RSA
+Steinmann 934 RSA
+Steinmann 938 RSA
+Steinmann 94-10 RSA
+Steinmann 94-17 RSA
+Steinmann 944 RSA
+Steinmann 964 (RSA)
+Steinmann & Carranza 2353, RSA
+Steinmann & Porter 4932 (RSA)
+Steinmann & Ramirez-Amezcua 7065 (RSA)
+Steinmann, V.W. 1089 (MICH, RSA)
+Stenmann 1439 RSA
+Stenmann 1439, RSA
+Stewart 2690 (RSA)
+Stoughton 1554 (RSA)
+Stoughton 1555 (RSA)
+Stoughton 1557 (RSA)
+Stoughton 1637A (RSA)
+Stoughton 1637A (RSA797461)
+Stoughton 1637B (RSA)
+Stoughton 1637B (RSA797461)
+Stoughton 1637C (RSA)
+Strid 24872 (RSA)
+Strid 25582 RSA
+Strid 25994 (RSA)
+Strid 26023 (RSA)
+Strid et al. 26121 (RSA)
+Sugawara 2368 (RSA)
+Sugawara 2368 (RSA354773)
+Swearingen 1596 (RSA)
+Talbot & Talbot 1327 (RSA)
+T. Anderson 03 (RSA)
+T. Anderson 09 (RSA)
+T. Anderson 11 (RSA)
+T. Anderson 12 (RSA)
+T. Anderson 14 (RSA)
+T. Anderson 15.2 (RSA)
+T. Anderson 15 (RSA)
+T. Anderson 18 (RSA)
+T. Anderson 21 (RSA)
+T. Anderson 25 (RSA)
+T. Anderson 26 (RSA)
+T. Anderson 28.5 (RSA)
+T. Anderson 28 (RSA)
+T. Anderson 29 (RSA)
+T. Anderson 32 (RSA)
+T. Anderson 41 (RSA)
+T. Anderson 43 (RSA)
+T. Anderson 47 (RSA)
+T. Anderson 49 (RSA)
+T. Anderson 51 (RSA)
+T. Anderson 52 (RSA)
+T. Anderson 7 (RSA)
+T. Arts RSA 105/05 (DUKE)
+T. Arts RSA27/11 (EGR)
+Taylor 9129 (RSA)
+Taylor 9151 RSA
+T. Bland 1K_01_SE_08 RSA
+T. Bland 2K_01_SE_08 RSA
+T. Bland 2K_01_SE_08, RSA
+T. Bland 3K_01_SE_08 RSA
+T. Bland 4K_01_SE_08 RSA
+T. Columbus 2383 (RSA)
+Tellez 9976; RSA
+Templeton 7079 (RSA)
+Tenorior 10949 RSA
+Theo Arts RSA 03/06 BR
+Theo Arts RSA 08/23 BR
+Theo Arts RSA09/10
+Theo Arts RSA 09/32 BR
+Theo Arts RSA 18/29 BR
+Thomas 23214 RSA
+Thomas 3439 RSA
+Thorne 19393 (RSA)
+Thorne 30772 (RSA)
+Thorne 32357 RSA
+Thorne 44385 (RSA)
+Thorne 50983 (RSA)
+Thorne 54406 (RSA)
+Thorne 54717, RSA
+Thorne 54937 (RSA)
+Thorne 55940 RSA
+Thorne 62474 RSA
+Thorne & Carolin 26185 (RSA)
+T. H. Perry 1003-1A (RSA)
+Throne 44385 (RSA)
+Tiehm 12016 (RSA)
+Tiehm 12035 (RSA)
+Tiehm 7847 RSA
+Tiehm 8654 RSA
+Tiehm & Crisafulli 11814; RSA
+Tilforth & Wisura 2140 (RSA)
+Tommerup 355; RSA
+Tommerup 355; RSA; Herbarium at Ranch
+Tripp 1206 (RSA)
+Tripp 1230 (RSA)
+Tripp 4069 (RSA)
+Tripp 4097 (RSA)
+Tripp 786 (RSA)
+Tripp 915 (RSA)
+Tripp and Dexter 849 (RSA)
+Tripp & Dexter 1953 (RSA)
+Tripp & Dexter 1963 (RSA)
+Tripp & Dexter 4128 (RSA)
+Tripp & Dexter 790 (RSA)
+Tripp & Dexter 824 (RSA)
+Tripp & Dexter 849 (RSA)
+Tripp & Dexter 870 (RSA)
+Tripp & Dexter 871 (RSA)
+Tripp & Dexter 881 (RSA)
+Tripp & Ensermu 888 (RSA)
+Tripp & Ensermu 894 (RSA)
+Tripp & Ensermu 903 (RSA)
+Tripp & Ensermu 905 (RSA)
+Tripp & Ensermu 906 (RSA)
+Tripp & Ensermu 914 (RSA)
+Tripp & Ensermu 923 (RSA)
+Tripp & Ensermu 924 (RSA)
+Tripp & Ensermu 927 (RSA)
+Tripp & Ensermu 929 (RSA)
+Tripp & Ensermu 933 (RSA)
+Tripp & Ensermu 934 (RSA)
+Tripp et al. 1206 (RSA)
+Tripp et al. 1225 (RSA)
+Tripp et al. 1230 (RSA)
+Tripp et al. 1975 (RSA)
+Tripp et al. 1983 (RSA)
+Tripp et al. 1986 (RSA)
+Tripp et al. 2016 (RSA)
+Tripp & Kelbessa 896 (RSA)
+Tripp & Kelbessa 917 (RSA)
+Tripp & Kelbessa 933 (RSA)
+Tripp & Lujan 519 (RSA)
+Tripp & Lujan 520 (RSA)
+T. R. Pray 3078 (RSA)
+T. R. Pray (RSA)
+T. R. Stoughton 800 (RSA 778206)
+T. R. Van Devender 93-1305 (RSA)
+T.R. Van Devender 96-207 (RSA)
+T. R. Van Devender s.n. (RSA)
+Tucker 629 (RSA)
+T. van Devender 931504 [RSA]
+Twisselman 16811 (RSA)
+UCBG 89.1321; RSA
+Usta T02-11 RSA
+Usta T02-11, RSA
+Usta T02-13, RSA
+Usta T02-15 RSA
+Usta T03-03 RSA
+Usta T03-03, RSA
+Usta T03-07 RSA
+Usta T03-07, RSA
+Usta T03-12 RSA
+Usta T03-12, RSA
+van Devender 93-20 RSA
+van Devender 95-1113 RSA
+Van Devender 96-290 RSA
+Vargas 119 (RSA)
+Vargas 163 (RSA)
+Vasak RSA-580597 (RSA)
+Vasak s.n. (RSA)
+Vasek 680914-51 RSA
+V. E. McNeilus 92-225 (RSA)
+Ventura 15710 RSA
+Verboom 557 RSA
+Verboom 558 RSA
+Vincent 8588 (RSA)
+Vitikainen 8650 (RSA)
+Vitikainen, O 8650 (RSA)
+VR Clark EastBeach 1 (GRA)
+VR Clark KZN2 (NU0092462)
+VR Clark KZN3 (NU0092464)
+VR Clark KZN4 (NU0092463)
+V Sosa & L Gross 1140 (RSA)
+V. Steinmann 17881 [RSA]
+V. Steinmann 4225 [RSA]
+V. Steinmann 730 [RSA]
+V. Steinmann 735 [RSA]
+V. Steinmann 971 (RSA)
+V. Vasak s.n. Jul. 25, 1988a (RSA)
+V. Vasak s.n. Jul. 25, 1988b (RSA)
+V. Vasak s.n. Jul. 25, 1988 (RSA)
+V.W. Steinmann 1148 RSA
+V.W. Steinmann 1170 RSA
+V.W. Steinmann 784 RSA
+V. W. Steinmann 873 (RSA)
+V.W. Steinmann 94-107 RSA
+Wall 562 (RSA)
+Walsh sn RSA
+Warner s.n.; RSA
+Waterfall 11794 RSA
+Welsh 20807 (RSA)
+Welsh & Ostler 1126 RSA
+Wheeler NO06Tr01, RSA
+White 11262 (RSA)
+Wilken 13371 RSA
+Wilken 13420 RSA
+Wilken 13604 RSA
+Wilken 13787 RSA
+Wilken 14843 RSA
+Wilken s.n. RSA
+Williams 1441 (RSA)
+Wilson AU01-07, RSA
+Wilson BFA07-19 RSA
+Wilson & Calvin US04-01, RSA
+Wilson DBG05-23 RSA
+Wilson G98-13, RSA
+Wilson G98-20, RSA
+Wilson JM06-02 RSA
+Wilson JM06-05 RSA
+Wilson JM06-07 RSA
+Wilson JM06-12 RSA
+Wilson JM06-14 RSA
+Wilson JPW05-01, RSA
+Wilson JPW05-03, RSA
+Wilson JPW08-30 RSA
+Wilson JPW08-32 RSA
+Wilson PH04-09, RSA
+Wilson PH04-10 RSA
+Wilson PH04-11 RSA
+Wilson PH04-12, RSA
+Wilson S06-39 RSA
+Wilson SP07-07 RSA
+Wilson SP07-10 RSA
+Wilson SP07-10, RSA
+Wilson T04-01 RSA
+Wilson T04-01, RSA
+Wilson T04-06, RSA
+Wilson T06-57, RSA
+Wilson T06-60, RSA
+Wilson T06-63 RSA
+Wilson T11-06 RSA
+Wilson T11-15 RSA
+Wilson US01-01, RSA
+Wilson US01-12 RSA
+Wilson US01-12, RSA
+Wilson US04-08, RSA
+Wilson US92-23, RSA
+Wilson US92-28, RSA
+Wilson US92-34, RSA
+Wilson US92-56 RSA
+Wilson US92-56, RSA
+Wilson US92-75, RSA
+Wilson US92-83, RSA
+Wilson US92-91, RSA
+Wilson US93-02, RSA
+Wilson US93-26 RSA
+Wilson US93-26, RSA
+Wilson US93-65, RSA
+Wilson US93-69, RSA
+Wilson US93-78, RSA
+Wilson US93-84, RSA
+Wilson UZ11-24 RSA
+Wilson UZ11-26 RSA
+Wilson UZ11-27 RSA
+Wilson UZ11-28 RSA
+Wilson UZ11-29 RSA
+Wilson WM10-01 RSA
+Wilson WM10-02 RSA
+Wilson WM10-03 RSA
+Wilson WM10-04 RSA
+Wisura 4506 (RSA)
+Wisura s.n. (RSA)
+Wolf 165 RSA
+Wolf 173 RSA
+Wolf & Wolf 195 RSA
+W. Wisura 4569 (RSA)
+Yli Rekola s.n. 18VII1980 (RSA)
+Zardini 23587; RSA
+Zardini s.n.; RSA
+Zebryk 4663 (RSA)
+Zika 16252; RSA
+Zika, 16252; RSA
+Zuniga 260 (RSA)
+Zuniga 262 (RSA)
+Zuniga 281 (RSA)
+Zuniga 282 (RSA)
+Zuniga 284 (RSA)
+Zuniga 287 (RSA)
+Zuniga 293 (RSA)
+Zuniga 297 (RSA)
+Zuniga 311 (RSA)
+Zuniga 314 (RSA)
+Zuniga 315 (RSA)
+Zuniga 318 (RSA)
+Zuniga 320 (RSA)
+Zuniga 324 (RSA)
+Zuniga 325 (RSA)
+Zuniga 326 (RSA)
+Zuniga 614 (RSA)
+Zuniga 615 (RSA)
+Zuniga 620 (RSA)
+Zuniga 626 (RSA)
+Zuniga 687 (RSA)
+Zuniga 702 (RSA)
+Zuniga 772 (RSA)
+Zuniga 773 (RSA)
+Zuniga 774 (RSA)
+Zuniga 775 (RSA)
