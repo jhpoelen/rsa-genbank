@@ -110,6 +110,7 @@ Now, search using the versioned RSA DwC-A by:
 ```bash
 preston ls\
  --anchor hash://sha256/747a1979d9196e55e8f24608df0e7d8aae5c73eac1c464bd9c63c94ba5a09e6e\
+ --remote https://raw.githubusercontent.com/jhpoelen/rsa-genbank/main/data,https://linker.bio\
  | preston dwc-stream\
  | grep Zuniga\
  | grep -E '[^0-9]775[^0-9]'\
@@ -125,6 +126,7 @@ with this in mind
 ```bash
 preston ls\
  --anchor hash://sha256/747a1979d9196e55e8f24608df0e7d8aae5c73eac1c464bd9c63c94ba5a09e6e\
+ --remote https://raw.githubusercontent.com/jhpoelen/rsa-genbank/main/data,https://linker.bio\
  | preston dwc-stream\
  | grep Zúñiga\
  | grep -E '[^0-9]775[^0-9]'\
@@ -138,6 +140,7 @@ However, ```Vincent 8588 (RSA)``` did yield a hit using:
 ```
 preston ls\
  --anchor hash://sha256/747a1979d9196e55e8f24608df0e7d8aae5c73eac1c464bd9c63c94ba5a09e6e\
+ --remote https://raw.githubusercontent.com/jhpoelen/rsa-genbank/main/data,https://linker.bio\
  | preston dwc-stream\
  | grep "Vincent"\
  | jq -c 'select(.["http://rs.tdwg.org/dwc/terms/recordNumber"] == "8588")'
