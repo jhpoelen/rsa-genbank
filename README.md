@@ -3,9 +3,9 @@ prototype workflows to link California Botanic Garden Herbarium specimen records
 
 note that RSA is an abbreviation mentioned in 
 
-https://handbook.arctosdb.org/documentation/genbank.html
- * https://www.insdc.org/submitting-standards/controlled-vocabulary-specimenvoucher-qualifier/
-  * https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/coll_dump.txt
+* https://handbook.arctosdb.org/documentation/genbank.html
+  * https://www.insdc.org/submitting-standards/controlled-vocabulary-specimenvoucher-qualifier/
+    * https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/coll_dump.txt
 
 ```bash
 curl --silent https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/coll_dump.txt\
