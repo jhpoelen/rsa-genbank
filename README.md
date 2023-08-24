@@ -1,6 +1,22 @@
 # rsa-genbank
 prototype workflows to link California Botanic Garden Herbarium specimen records at (RSA) with associated NIH NCBI GenBank
 
+note that RSA is an abbreviation mentioned in 
+
+https://handbook.arctosdb.org/documentation/genbank.html
+ * https://www.insdc.org/submitting-standards/controlled-vocabulary-specimenvoucher-qualifier/
+  * https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/coll_dump.txt
+
+```bash
+curl --silent https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/coll_dump.txt\
+ | grep -E "^RSA[^A-Z]"
+```
+
+yielding:
+
+```
+RSA	s	Rancho Santa Ana Botanic Garden			
+```
 
 ## Step 1. Select GenBank Records mentioning "RSA"
 
