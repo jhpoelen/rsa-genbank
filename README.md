@@ -144,7 +144,7 @@ preston ls\
  --anchor hash://sha256/747a1979d9196e55e8f24608df0e7d8aae5c73eac1c464bd9c63c94ba5a09e6e\
  --remote https://raw.githubusercontent.com/jhpoelen/rsa-genbank/main/data,https://linker.bio\
  | preston dwc-stream\
- --remote https://raw.githubusercontent.com/jhpoelen/rsa-genbank/main/data,https://linker.bio/
+ --remote https://raw.githubusercontent.com/jhpoelen/rsa-genbank/main/data,https://linker.bio\
  | grep "Vincent"\
  | jq -c 'select(.["http://rs.tdwg.org/dwc/terms/recordNumber"] == "8588")'
 ```
